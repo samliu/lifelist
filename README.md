@@ -5,7 +5,7 @@ and rainbows as different fish despite same species.
 
 ## List
 
-33 unique fish types (32 species) caught and identified as of August 8, 2020. 8
+36 unique fish types (35 species) caught and identified as of August 8, 2020. 8
 additional fishes caught but not identified (see "to identify" folder) -- most
 are unique but some may be duplicates. I suspect I'm at 39 total unique fish
 types once those are identified.
@@ -20,6 +20,7 @@ types once those are identified.
 * 2017-08-16_mahi_mahi.jpg
 * 2017-08-16_yellowfin_tuna.jpg
 * 2017-09-23_green_sunfish.jpg
+* 2018-05-04_queen_croaker_queenfish.jpg
 * 2018-06-08_northern_pike.jpg
 * 2018-06-08_rock_bass.png
 * 2018-06-09_bluegill.jpg
@@ -40,7 +41,9 @@ types once those are identified.
 * 2019-11-25_bluespotted_cornetfish.jpg
 * 2019-11-25_lizardfish.jpg
 * 2019-12-08_steelhead.jpg
-* 2020-03-01_blue_tang.jpg
+* 2020-02-29_bermuda_chub.jpg
+* 2020-03-01_atlantic_blue_tang.jpg
 * 2020-03-01_mangrove_snapper.jpg
+* 2020-03-02_sergent_major.jpg
 * 2020-05-22_walleye_surfperch.jpg
 
