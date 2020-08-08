@@ -36,7 +36,7 @@ types once those are identified.
 * 2019-10-06_striped_bass.jpg
 * 2019-10-20_common_carp.jpg
 * 2019-11-23_bluefin_trevally.jpg
-* 2019-11-24_papio_jack_crevalle.jpg
+* 2019-11-24_papio_pacific_jack_crevalle.jpg
 * 2019-11-25_bluespotted_cornetfish.jpg
 * 2019-11-25_lizardfish.jpg
 * 2019-12-08_steelhead.jpg
