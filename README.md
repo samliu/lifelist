@@ -5,7 +5,7 @@ and rainbows as different fish despite same species.
 
 ## List
 
-36 unique fish types (35 species) caught and identified as of August 8, 2020. 8
+36 unique fish types (35 species) caught and identified as of August 8, 2020. 6
 additional fishes caught but not identified (see "to identify" folder) -- most
 are unique but some may be duplicates. I suspect I'm at 39 total unique fish
 types once those are identified.
@@ -47,3 +47,8 @@ types once those are identified.
 * 2020-03-02_sergent_major.jpg
 * 2020-05-22_walleye_surfperch.jpg
 
+## How I identify fish
+
+I haven't caught that many rare fish, so mostly they are easy to recognize.
+But for exotic species or specific subspecies, [Fishbase](https://www.fishbase.de)
+is fairly helpful!
