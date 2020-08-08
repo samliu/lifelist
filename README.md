@@ -5,8 +5,8 @@ and rainbows as different fish despite same species.
 
 ## List
 
-33 unique fishes caught and identified as of August 8, 2020. 8 additional
-fishes caught but not identified (see "to identify" folder).
+33 unique fishes (32 species) caught and identified as of August 8, 2020. 8
+additional fishes caught but not identified (see "to identify" folder).
 
 * 2016-05-01_california_halibut.jpg
 * 2016-06-17_pacific_mackerel.jpg
