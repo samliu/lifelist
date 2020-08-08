@@ -7,7 +7,7 @@ and rainbows as different fish despite same species.
 
 36 unique fish types (35 species) caught and identified as of August 8, 2020. 6
 additional fishes caught but not identified (see "to identify" folder) -- most
-are unique but some may be duplicates. I suspect I'm at 39 total unique fish
+are unique but some may be duplicates. I suspect I'm at 42 total unique fish
 types once those are identified.
 
 * 2016-05-01_california_halibut.jpg
