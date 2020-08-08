@@ -5,8 +5,8 @@ and rainbows as different fish despite same species.
 
 ## List
 
-35 unique fishes caught and identified as of August 8, 2020. 8 additional
-unique fishes caught but not identified (see "to identify" folder).
+33 unique fishes caught and identified as of August 8, 2020. 8 additional
+fishes caught but not identified (see "to identify" folder).
 
 * 2016-05-01_california_halibut.jpg
 * 2016-06-17_pacific_mackerel.jpg
@@ -21,12 +21,10 @@ unique fishes caught but not identified (see "to identify" folder).
 * 2018-06-08_northern_pike.jpg
 * 2018-06-08_rock_bass.png
 * 2018-06-09_bluegill.jpg
-* 2018-06-09_sunfish.jpg
 * 2018-08-17_white_crappie.jpg
 * 2018-11-22_spotted_bay_bass.jpg
 * 2018-12-24_rainbow_trout.jpg
 * 2019-03-30_jacksmelt.jpg
-* 2019-03-30_tiny_california_halibut.jpg
 * 2019-07-05_channel_catfish.jpg
 * 2019-07-06_black_crappie.jpg
 * 2019-08-18_barred_surfperch.jpg
