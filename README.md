@@ -9,7 +9,7 @@ caught but not identified (see "to identify" folder). I should be at 40 total un
 
 * [California Halibut](img/2016-05-01_california_halibut.jpg) - Caught in SF bay on a charter boat.
 * [Pacific Mackerel](img/2016-06-17_pacific_mackerel.jpg) - Caught at Pacifica Pier.
-* [Shiner Surfperch](img/2017-05-13_walleye_surfperch.jpg) - Caught at Santa Cruz Wharf.
+* [Walleye Surfperch](img/2017-05-13_walleye_surfperch.jpg) - Caught at Santa Cruz Wharf.
 * [Yellow Perch](img/2017-05-26_yellow_perch.jpg) - Caught in the Charles River, Cambridge MA.
 * [Largemouth Bass](img/2017-05-28_largemouth_bass.jpg) - Caught in the Charles River, Cambridge MA.
 * [Bat Ray](img/2017-07-03_bat_ray.png) - Caught near the channel islands in a sailboat. Fuzzy image was screencapped from video.
