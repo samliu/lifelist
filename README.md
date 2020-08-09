@@ -6,9 +6,8 @@ and rainbows as different fish despite same species.
 ## List
 
 35 unique fish types (34 species) caught and identified as of August 8, 2020. 7
-additional fishes caught but not identified (see "to identify" folder) -- most
-are unique but some may be duplicates. I suspect I'm at 42 total unique fish
-types once those are identified.
+additional fishes caught but not identified (see "to identify" folder). I should be at
+42 total unique fish types once those are identified.
 
 * [California Halibut](img/2016-05-01_california_halibut.jpg) - Caught in SF bay on a charter boat.
 * [Pacific Mackerel](img/2016-06-17_pacific_mackerel.jpg) - Caught at Pacifica Pier.
