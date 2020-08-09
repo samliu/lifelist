@@ -87,3 +87,5 @@ additional fishes caught but not identified (see "to identify" folder). I should
 I haven't caught that many rare fish, so mostly they are easy to recognize.
 But for exotic species or specific subspecies, [Fishbase](https://www.fishbase.us)
 is fairly helpful!
+
+INaturalist is also great if you post locally.
