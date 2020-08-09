@@ -85,5 +85,5 @@ additional fishes caught but not identified (see "to identify" folder). I should
 ## How I identify fish
 
 I haven't caught that many rare fish, so mostly they are easy to recognize.
-But for exotic species or specific subspecies, [Fishbase](https://www.fishbase.de)
+But for exotic species or specific subspecies, [Fishbase](https://www.fishbase.us)
 is fairly helpful!
