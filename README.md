@@ -14,7 +14,7 @@ additional fishes caught but not identified (see "to identify" folder). I should
 * [Shiner Surfperch](img/2017-05-13_shiner_surfperch.jpg) - Caught at Santa Cruz Wharf.
 * [Yellow Perch](img/2017-05-26_yellow_perch.jpg) - Caught in the Charles River, Cambridge MA.
 * [Largemouth Bass](img/2017-05-28_largemouth_bass.jpg) - Caught in the Charles River, Cambridge MA.
-* [Bat Ray](img/2017-07-03_bat_ray.png) - Caught near the channel islands in a sailboat.
+* [Bat Ray](img/2017-07-03_bat_ray.png) - Caught near the channel islands in a sailboat. Fuzzy image was screencapped from video.
 * [Mahi Mahi / Dolphin / Dorado](img/2017-08-16_mahi_mahi.jpg) - Caught off the coast of Todos Santos, MX.
 * [Yellowfin Tuna](img/2017-08-16_yellowfin_tuna.jpg) - Caught off the coast of Todos Santos, MX
 * [Green Sunfish](img/2017-09-23_green_sunfish.jpg) - Caught in the Guadalupe River, San Jose CA.
