@@ -96,12 +96,10 @@ These are not unique species but are different versions of species on the unique
 
 ## How I identify fish
 
-I haven't caught that many rare fish, so mostly they are easy to recognize.
-But for exotic species or specific subspecies, [Fishbase](https://www.fishbase.us)
-is fairly helpful!
+I haven't caught that many rare fish, so mostly they are easy to recognize. But a few times now I've had to 
+defer to experts or scour through indices. Here are some of the tool I use:
 
-INaturalist is also great if you post locally.
-
-CA DFW also has useful factsheets.
-
-* [Surfperch Identification](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=36617)
+* [Fishbase](https://www.fishbase.us)
+* [INaturalist](https://www.inaturalist.org)
+* CA DFW
+  * [Surfperch Identification](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=36617)
