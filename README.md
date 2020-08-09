@@ -1,17 +1,15 @@
 # Sam's Fishing Lifelist
 
-This will record all the kinds of fish I have caught. I'm counting steelhead
-and rainbows as different fish despite same species.
+This will record all the kinds of fish I have caught.
 
-## List
+## Unique Species List (Photographed)
 
-35 unique fish types (34 species) caught and identified as of August 8, 2020. 7
-additional fishes caught but not identified (see "to identify" folder). I should be at
-42 total unique fish types once those are identified.
+33 unique species caught and identified as of August 8, 2020. 7 additional fishes
+caught but not identified (see "to identify" folder). I should be at 40 total unique fish types once those are identified.
 
 * [California Halibut](img/2016-05-01_california_halibut.jpg) - Caught in SF bay on a charter boat.
 * [Pacific Mackerel](img/2016-06-17_pacific_mackerel.jpg) - Caught at Pacifica Pier.
-* [Shiner Surfperch](img/2017-05-13_shiner_surfperch.jpg) - Caught at Santa Cruz Wharf.
+* [Shiner Surfperch](img/2017-05-13_walleye_surfperch.jpg) - Caught at Santa Cruz Wharf.
 * [Yellow Perch](img/2017-05-26_yellow_perch.jpg) - Caught in the Charles River, Cambridge MA.
 * [Largemouth Bass](img/2017-05-28_largemouth_bass.jpg) - Caught in the Charles River, Cambridge MA.
 * [Bat Ray](img/2017-07-03_bat_ray.png) - Caught near the channel islands in a sailboat.
@@ -38,12 +36,17 @@ additional fishes caught but not identified (see "to identify" folder). I should
 * [Pacific Jack Crevalle](img/2019-11-24_papio_pacific_jack_crevalle.jpg) - Caught at Anini Beach, Kauai.
 * [Bluespotted Cornetfish](img/2019-11-25_bluespotted_cornetfish.jpg) - Caught at Anini Beach, Kauai.
 * [Lizardfish](img/2019-11-25_lizardfish.jpg) - Caught at Anini Beach, Kauai.
-* [Steelhead (Rainbow Trout)](img/2019-12-08_steelhead.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Rare native (not stocked).
 * [Bermuda Chub](img/2020-02-29_bermuda_chub.jpg) - Caught at Maya Riviera, MX.
 * [Atlantic Blue Tang (Blue Tang Surgeonfish)](img/2020-03-01_atlantic_blue_tang.jpg) - Caught at Maya Riviera, MX.
 * [Mangrove Snapper](img/2020-03-01_mangrove_snapper.jpg) - Caught at Maya Riviera, MX.
 * [Sergent Major](img/2020-03-02_sergent_major.jpg) - Caught at Maya Riviera, MX.
-* [Walleye Surfperch](img/2020-05-22_walleye_surfperch.jpg) - Caught on the northern california coastline near Daly City.
+
+## Variations
+
+These are not unique species but are unique versions of species on the unique list.
+
+* [Rainbow Trout - Steelhead](img/2019-12-08_steelhead.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Rare native (not stocked).
+* [Barred Surfperch - Unbarred Version](img/doubles/2020-05-22_barred_surfperch_unbarred_version.jpg) - Caught on the northern california coastline near Daly City.
 
 ## Not on the list because no picture but fish I've definitely caught
 
@@ -61,7 +64,7 @@ additional fishes caught but not identified (see "to identify" folder). I should
 * Barracuda - 6ft ate the 4-5lbs fish at the end of my line, pulled out drag until my 20lbs line frayed from its teeth.
 * Cutthroat trout - Jumped out of the water when it hit my hopper near mammoth lakes.
 
-## Size Records
+## Species Specific Size Records
 
 * [Largemouth Bass](img/special%20occasion/largemouth/2020-04-09_10lbs_largemouth.jpg) - 10lbs
 
