@@ -63,6 +63,7 @@ These are not unique species but are different versions of species on the unique
 * Black Rockfish
 * Pumpkinseed Sunfish
 * Longear Sunfish
+* Redbreast Sunfish
 * Atlantic Stingray (when I was young)
 * Anchovy
 * Topsmelt silverside
