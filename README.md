@@ -60,9 +60,8 @@ types once those are identified.
 
 ## Fish I hooked up with but did not land
 
-* Barracuda
-* Cutthroat trout
-* Brown trout
+* Barracuda - 6ft ate the 4-5lbs fish at the end of my line, pulled out drag until my 20lbs line frayed from its teeth.
+* Cutthroat trout - Jumped out of the water when it hit my hopper near mammoth lakes.
 
 ## Size Records
 
