@@ -68,6 +68,13 @@ types once those are identified.
 
 * [Largemouth Bass](img/special%20occasion/largemouth/2020-04-09_10lbs_largemouth.jpg) - 10lbs
 
+## Fish Caught on Special Techniques / Lures
+
+* [First Topwater Bass](img/special%20occasion/largemouth/2019-10-06_first_topwater_bass.jpg) - Zara Spook
+* [First Rainbow Trout on the Fly](img/special%20occasion/fly%20fishing/08-01-2020_first_rainbow_on_the_fly.jpg) - Zebra Midge
+* [First Largemouth Bass on the Fly](img/special%20occasion/fly%20fishing/06-29-2020_first_fly_fish_tiny_largemouth.jpg) - Black wooly bugger
+* [First Bluegill on the Fly](img/special%20occasion/fly%20fishing/07-12-2020_first_bluegill_on_the_fly.jpg) - Brown clouser/bugger hybrid
+
 ## How I identify fish
 
 I haven't caught that many rare fish, so mostly they are easy to recognize.
