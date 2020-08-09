@@ -10,6 +10,10 @@ Unfortunately this led me to a few realizations:
 
 At any rate I'll catch, photograph, and release the fish I missed / failed to get pictures of in due time.
 
+_Note: This list contains mostly the first fish of each species that I managed to photograph, chronologically. The fish pictured is not usually
+the largest of the species that I caught, nor is this list that reflective of how much I fish, because I mostly do catch the same kinds of
+fish at my local spots._
+
 ## Unique Species List (Photographed)
 
 33 unique species caught and identified as of August 8, 2020. 7 additional fishes
