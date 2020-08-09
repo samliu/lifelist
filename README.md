@@ -8,7 +8,7 @@ Unfortunately this led me to a few realizations:
 2. Some fish look different within the same species; e.g male vs female, barred vs unbarred, anadromous vs freshwater only.
 3. I've hooked up with some fish but failed to land and get a picture of them.
 
-Someday I'll make sure I catch, photograph, and release a bunch more fish.
+At any rate I'll catch, photograph, and release the fish I missed / failed to get pictures of in due time.
 
 ## Unique Species List (Photographed)
 
