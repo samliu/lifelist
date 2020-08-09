@@ -1,6 +1,14 @@
 # Sam's Fishing Lifelist
 
-This will record all the kinds of fish I have caught.
+I decided to start [lifelisting](https://blog.nature.org/science/2015/09/10/obsessed-nature-fishy-life-listing-fish-fishing-naturalist) since it's fun
+and I mostly catch and release -- my photos were becoming quite disorganized and I was curious to find out how many different kinds of fish I've caught.
+Unfortunately this led me to a few realizations:
+
+1. I didn't take pictures of every species I've ever caught. I'm regretting it now, because I feel bad if I include those fish. I'll have to get them again.
+2. Some fish look different within the same species; e.g male vs female, barred vs unbarred, anadromous vs freshwater only.
+3. I've hooked up with some fish but failed to land and get a picture of them.
+
+Someday I'll make sure I catch, photograph, and release a bunch more fish.
 
 ## Unique Species List (Photographed)
 
