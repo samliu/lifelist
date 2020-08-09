@@ -51,7 +51,7 @@ caught but not identified (see "to identify" folder). I should be at 40 total un
 
 ## Variations
 
-These are not unique species but are unique versions of species on the unique list.
+These are not unique species but are different versions of species on the unique list.
 
 * [Rainbow Trout - Steelhead](img/2019-12-08_steelhead.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Rare native (not stocked).
 * [Barred Surfperch - Unbarred Version](img/doubles/2020-05-22_barred_surfperch_unbarred_version.jpg) - Caught on the northern california coastline near Daly City.
