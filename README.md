@@ -26,7 +26,7 @@ additional fishes caught but not identified (see "to identify" folder). I should
 * [Spotted Bay Bass](img/2018-11-22_spotted_bay_bass.jpg) - Caught in San Diego Bay, CA.
 * [Rainbow Trout](img/2018-12-24_rainbow_trout.jpg) - Caught in the Rogue River, OR.
 * [Jacksmelt](img/2019-03-30_jacksmelt.jpg) - Caught in Santa Barbara, CA.
-* [Channel Catfish](img/2019-07-05_channel_catfish.jpg) - Caught at Gompers Lagoon, Chicago IL.
+* [Yellow Bullhead Catfish](img/2019-07-05_yellow_bullhead.jpg) - Caught at Gompers Lagoon, Chicago IL.
 * [Black Crappie](img/2019-07-06_black_crappie.jpg) - Caught at Gompers Lagoon, Chicago IL.
 * [Barred Surfperch](img/2019-08-18_barred_surfperch.jpg) - Caught at Half Moon Bay, CA.
 * [Pikeminnow](img/2019-08-30_pikeminnow.jpg) - Caught in the Rogue River, OR.
