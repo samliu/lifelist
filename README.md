@@ -37,7 +37,7 @@ types once those are identified.
 * [Striped Bass](img/2019-10-06_striped_bass.jpg) - Caught at O Neil Forebay, CA. (17")
 * [Common Carp](img/2019-10-20_common_carp.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA.
 * [Bluefin Trevally](img/2019-11-23_bluefin_trevally.jpg) - Caught at Anini Beach, Kauai.
-* [Pacific Jack Crevalle](img/2019-11-24_papio_pacific_jack_crevalle.jpg) - Caught at Hanalei Pier, Kauai.
+* [Pacific Jack Crevalle](img/2019-11-24_papio_pacific_jack_crevalle.jpg) - Caught at Anini Beach, Kauai.
 * [Bluespotted Cornetfish](img/2019-11-25_bluespotted_cornetfish.jpg) - Caught at Anini Beach, Kauai.
 * [Lizardfish](img/2019-11-25_lizardfish.jpg) - Caught at Anini Beach, Kauai.
 * [Steelhead (Rainbow Trout)](img/2019-12-08_steelhead.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Rare native (not stocked).
