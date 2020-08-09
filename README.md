@@ -64,6 +64,10 @@ types once those are identified.
 * Cutthroat trout
 * Brown trout
 
+## Size Records
+
+* [Largemouth Bass](img/special occasion/largemouth/2020-04-09_10lbs_largemouth.jpg) - 10lbs
+
 ## How I identify fish
 
 I haven't caught that many rare fish, so mostly they are easy to recognize.
