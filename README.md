@@ -5,14 +5,13 @@ and rainbows as different fish despite same species.
 
 ## List
 
-36 unique fish types (35 species) caught and identified as of August 8, 2020. 6
+35 unique fish types (34 species) caught and identified as of August 8, 2020. 7
 additional fishes caught but not identified (see "to identify" folder) -- most
 are unique but some may be duplicates. I suspect I'm at 42 total unique fish
 types once those are identified.
 
 * [California Halibut](img/2016-05-01_california_halibut.jpg) - Caught in SF bay on a charter boat.
 * [Pacific Mackerel](img/2016-06-17_pacific_mackerel.jpg) - Caught at Pacifica Pier.
-* [Silver Surfperch](img/2016-07-24_silver_surfperch.jpg) - Caught at Pacifica Pier.
 * [Shiner Surfperch](img/2017-05-13_shiner_surfperch.jpg) - Caught at Santa Cruz Wharf.
 * [Yellow Perch](img/2017-05-26_yellow_perch.jpg) - Caught in the Charles River, Cambridge MA.
 * [Largemouth Bass](img/2017-05-28_largemouth_bass.jpg) - Caught in the Charles River, Cambridge MA.
@@ -76,6 +75,7 @@ types once those are identified.
 
 ## Yet to be identified
 
+* [Silver Surfperch looking thing](img/to%20identify/2016-07-24_silver_surfperch.jpg) - Caught at Pacifica Pier. I thought it was a silver surfperch but head shape seems wrong.
 * [Potential hybrid, Charles River, Cambridge MA](img/to%20identify/2017-05-26_unidentified_fish_charles_river_cambridge.jpg)
 * [Some kind of needlefish in Kauai, HI](img/to%20identify/2019-11-27_unidentified_needlefish_kauai.jpg)
 * [Looks like an alewife or smelt type thing, Riviera Maya MX](img/to%20identify/2020-02-29_unidentified_baitfish_riviera_maya.jpg)
