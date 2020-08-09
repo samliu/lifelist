@@ -89,3 +89,7 @@ But for exotic species or specific subspecies, [Fishbase](https://www.fishbase.u
 is fairly helpful!
 
 INaturalist is also great if you post locally.
+
+CA DFW also has useful factsheets.
+
+* [Surfperch Identification](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=36617)
