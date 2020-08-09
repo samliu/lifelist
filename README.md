@@ -66,7 +66,7 @@ types once those are identified.
 
 ## Size Records
 
-* [Largemouth Bass](img/special occasion/largemouth/2020-04-09_10lbs_largemouth.jpg) - 10lbs
+* [Largemouth Bass](img/special%20occasion/largemouth/2020-04-09_10lbs_largemouth.jpg) - 10lbs
 
 ## How I identify fish
 
