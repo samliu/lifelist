@@ -55,6 +55,7 @@ additional fishes caught but not identified (see "to identify" folder). I should
 * Atlantic Stingray (when I was young)
 * Anchovy
 * Topsmelt silverside
+* Channel Catfish (high school, Holmdel Park Pond)
 
 ## Fish I hooked up with but did not land
 
