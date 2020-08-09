@@ -74,6 +74,15 @@ types once those are identified.
 * [First Largemouth Bass on the Fly](img/special%20occasion/fly%20fishing/06-29-2020_first_fly_fish_tiny_largemouth.jpg) - Black wooly bugger
 * [First Bluegill on the Fly](img/special%20occasion/fly%20fishing/07-12-2020_first_bluegill_on_the_fly.jpg) - Brown clouser/bugger hybrid
 
+## Yet to be identified
+
+* [Potential hybrid, Charles River, Cambridge MA](img/to%20identify/2017-05-26_unidentified_fish_charles_river_cambridge.jpg)
+* [Some kind of needlefish in Kauai, HI](img/to%20identify/2019-11-27_unidentified_needlefish_kauai.jpg)
+* [Looks like an alewife or smelt type thing, Riviera Maya MX](img/to%20identify/2020-02-29_unidentified_baitfish_riviera_maya.jpg)
+* [Some kind of grunt? Riviera Maya MX](img/to%20identify/2020-03-01-unidentified_tropical_fish.jpg)
+* [Split tail somewhat boring. Riviera Maya MX](img/to%20identify/2020-03-01_unidentified_tropical_fish.jpg)
+* [Seems like a bream/porgy of some sort Riviera Maya MX](img/to%20identify/2020_03_01_unidentified_bream_riviera_maya.jpg)
+
 ## How I identify fish
 
 I haven't caught that many rare fish, so mostly they are easy to recognize.
