@@ -4,7 +4,7 @@ I decided to start [lifelisting](https://blog.nature.org/science/2015/09/10/obse
 and I mostly catch and release -- my photos were becoming quite disorganized and I was curious to find out how many different kinds of fish I've caught.
 Unfortunately this led me to a few realizations:
 
-1. I didn't take pictures of every species I've ever caught. I'm regretting it now, because I feel bad if I include those fish. I'll have to get them again.
+1. I didn't take pictures of every species I've ever caught. I'm regretting it now, because I would feel bad if I included those fish. I'll have to get them again.
 2. Some fish look different within the same species; e.g male vs female, barred vs unbarred, anadromous vs freshwater only.
 3. I've hooked up with some fish but failed to land and get a picture of them.
 
