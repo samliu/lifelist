@@ -47,6 +47,23 @@ types once those are identified.
 * [Sergent Major](img/2020-03-02_sergent_major.jpg) - Caught at Maya Riviera, MX.
 * [Walleye Surfperch](img/2020-05-22_walleye_surfperch.jpg) - Caught on the northern california coastline near Daly City.
 
+## Not on the list because no picture but fish I've definitely caught
+
+* Vermillion Rockfish
+* Blue Rockfish
+* Black Rockfish
+* Pumpkinseed Sunfish
+* Longear Sunfish
+* Atlantic Stingray (when I was young)
+* Anchovy
+* Topsmelt silverside
+
+## Fish I hooked up with but did not land
+
+* Barracuda
+* Cutthroat trout
+* Brown trout
+
 ## How I identify fish
 
 I haven't caught that many rare fish, so mostly they are easy to recognize.
