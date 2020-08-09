@@ -11,8 +11,9 @@ Unfortunately this led me to a few realizations:
 At any rate I'll catch, photograph, and release the fish I missed / failed to get pictures of in due time.
 
 _Note: This list contains mostly the first fish of each species that I managed to photograph, chronologically. The fish pictured is not usually
-the largest of the species that I caught, nor is this list that reflective of how much I fish, because I mostly do catch the same kinds of
-fish at my local spots._
+the largest of the species that I caught, nor is it even the first of that species that I caught -- it's just the first to get on film. This list
+is also not that reflective of how much I fish, because I mostly do catch the same kinds of fish at my local spots. I don't particularly go out of
+my way to add species to this list._
 
 ## Unique Species List (Photographed)
 
