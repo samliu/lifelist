@@ -17,7 +17,7 @@ my way to add species to this list._
 
 ## Unique Species List (Photographed)
 
-34 unique species caught and identified as of August 8, 2020. 6 additional fishes
+35 unique species caught and identified as of August 8, 2020. 5 additional fishes
 caught but not identified (see "to identify" folder). I should be at 40 total unique fish types once those are identified.
 
 * [California Halibut](img/2016-05-01_california_halibut.jpg) - Caught in SF bay on a charter boat.
