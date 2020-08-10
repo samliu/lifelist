@@ -10,10 +10,7 @@ Unfortunately this led me to a few realizations:
 
 At any rate I'll catch, photograph, and release the fish I missed / failed to get pictures of in due time.
 
-_Note: This list contains mostly the first fish of each species that I managed to photograph, chronologically. The fish pictured is not usually
-the largest of the species that I caught, nor is it even the first of that species that I caught -- it's just the first to get on film. This list
-is also not that reflective of how much I fish, because I mostly do catch the same kinds of fish at my local spots. I don't particularly go out of
-my way to add species to this list._
+_Note: This list contains (usually) the first fish of each species that I managed to photograph, chronologically. The fish pictured is not usually the largest of the species that I caught, nor is it the first of that species that I ever caught -- it's (usually) the first to get on film. This list is also not that reflective of how much I fish, because I mostly do catch the same kinds of fish at my local spots. I don't particularly go out of my way to add species to this list._
 
 ## Unique Species List (Photographed)
 
@@ -37,8 +34,8 @@ caught but not identified (see "to identify" folder). I should be at 39 total un
 * [Bluegill](img/2018-06-09_bluegill.jpg) - Caught in Bay Lake, MN.
 * [Spotted Bay Bass](img/2018-11-22_spotted_bay_bass.jpg) - Caught in San Diego Bay, CA.
 * [Rainbow Trout](img/2018-12-24_rainbow_trout.jpg) - Caught in the Rogue River, OR.
-* [Jacksmelt](img/2019-03-30_jacksmelt.jpg) - Caught in Santa Barbara, CA.
 * [Yellow Bullhead Catfish](img/2019-07-05_yellow_bullhead.jpg) - Caught at Gompers Lagoon, Chicago IL.
+* [Jacksmelt](img/2019-03-30_jacksmelt.jpg) - Caught in Santa Barbara, CA.
 * [Black Crappie](img/2019-07-06_black_crappie.jpg) - Caught at Gompers Lagoon, Chicago IL.
 * [Barred Surfperch](img/2019-08-18_barred_surfperch.jpg) - Caught at Half Moon Bay, CA.
 * [Pikeminnow](img/2019-08-30_pikeminnow.jpg) - Caught in the Rogue River, OR.
@@ -60,9 +57,9 @@ caught but not identified (see "to identify" folder). I should be at 39 total un
 
 These are not unique species but are different versions of species on the unique list.
 
-* [Rainbow Trout - Steelhead](img/2019-12-08_steelhead.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Rare native (not stocked).
+* [Rainbow Trout - Steelhead](img/doubles/2019-12-08_steelhead.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Rare native (not stocked).
 * [Barred Surfperch - Unbarred Version](img/doubles/2020-05-22_barred_surfperch_unbarred_version.jpg) - Caught on the northern california coastline near Daly City.
-* [Black Crappie - light colored version](img/2018-08-17_black_crappie.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Despite being light in color, this is indeed a black crappie (6-7 dorsal spines vs 4-5, not barred pattern).
+* [Black Crappie - light colored version](img/doubles/2018-08-17_black_crappie.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Despite being light in color, this is indeed a black crappie (7-8 dorsal spines vs 5-6 on a white crappie; not barred pattern).
 
 ## Not on the list because no picture but fish I've definitely caught
 
