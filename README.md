@@ -17,8 +17,8 @@ my way to add species to this list._
 
 ## Unique Species List (Photographed)
 
-35 unique species caught and identified as of August 8, 2020. 5 additional fishes
-caught but not identified (see "to identify" folder). I should be at 40 total unique fish types once those are identified.
+34 unique species caught and identified as of August 8, 2020. 5 additional fishes
+caught but not identified (see "to identify" folder). I should be at 39 total unique fish types once those are identified.
 
 * [California Halibut](img/2016-05-01_california_halibut.jpg) - Caught in SF bay on a charter boat.
 * [Pacific Mackerel](img/2016-06-17_pacific_mackerel.jpg) - Caught at Pacifica Pier.
@@ -35,7 +35,6 @@ caught but not identified (see "to identify" folder). I should be at 40 total un
 * [Northern Pike](img/2018-06-08_northern_pike.jpg) - Caught in Bay Lake, MN.
 * [Rock Bass](img/2018-06-08_rock_bass.png) - Caught in Bay Lake, MN.
 * [Bluegill](img/2018-06-09_bluegill.jpg) - Caught in Bay Lake, MN.
-* [Black Crappie](img/2018-08-17_black_crappie.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Note: despite being light in color, this is indeed a black crappie (6-7 dorsal spines vs 4-5).
 * [Spotted Bay Bass](img/2018-11-22_spotted_bay_bass.jpg) - Caught in San Diego Bay, CA.
 * [Rainbow Trout](img/2018-12-24_rainbow_trout.jpg) - Caught in the Rogue River, OR.
 * [Jacksmelt](img/2019-03-30_jacksmelt.jpg) - Caught in Santa Barbara, CA.
@@ -63,6 +62,7 @@ These are not unique species but are different versions of species on the unique
 
 * [Rainbow Trout - Steelhead](img/2019-12-08_steelhead.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Rare native (not stocked).
 * [Barred Surfperch - Unbarred Version](img/doubles/2020-05-22_barred_surfperch_unbarred_version.jpg) - Caught on the northern california coastline near Daly City.
+* [Black Crappie - light colored version](img/2018-08-17_black_crappie.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Despite being light in color, this is indeed a black crappie (6-7 dorsal spines vs 4-5, not barred pattern).
 
 ## Not on the list because no picture but fish I've definitely caught
 
