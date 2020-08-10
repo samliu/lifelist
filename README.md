@@ -51,10 +51,11 @@ caught but not identified (see "to identify" folder). I should be at 40 total un
 * [Pacific Jack Crevalle](img/2019-11-24_papio_pacific_jack_crevalle.jpg) - Caught at Anini Beach, Kauai.
 * [Bluespotted Cornetfish](img/2019-11-25_bluespotted_cornetfish.jpg) - Caught at Anini Beach, Kauai.
 * [Lizardfish](img/2019-11-25_lizardfish.jpg) - Caught at Anini Beach, Kauai.
-* [Bermuda Chub](img/2020-02-29_bermuda_chub.jpg) - Caught at Maya Riviera, MX.
-* [Atlantic Blue Tang (Blue Tang Surgeonfish)](img/2020-03-01_atlantic_blue_tang.jpg) - Caught at Maya Riviera, MX.
-* [Mangrove Snapper](img/2020-03-01_mangrove_snapper.jpg) - Caught at Maya Riviera, MX.
-* [Sergent Major](img/2020-03-02_sergent_major.jpg) - Caught at Maya Riviera, MX.
+* [Bermuda Chub](img/2020-02-29_bermuda_chub.jpg) - Caught at Riviera Maya, MX.
+* [Atlantic Blue Tang (Blue Tang Surgeonfish)](img/2020-03-01_atlantic_blue_tang.jpg) - Caught at Riviera Maya, MX.
+* [White Grunt](img/2020-03-01-white_grunt.jpg) - Caught at Riviera Maya MX.
+* [Mangrove Snapper](img/2020-03-01_mangrove_snapper.jpg) - Caught at Riviera Maya, MX.
+* [Sergent Major](img/2020-03-02_sergent_major.jpg) - Caught at Riviera Maya, MX.
 
 ## Variations
 
@@ -97,7 +98,6 @@ These are not unique species but are different versions of species on the unique
 * [Potential hybrid, Charles River, Cambridge MA](img/to%20identify/2017-05-26_unidentified_fish_charles_river_cambridge.jpg)
 * [Some kind of needlefish in Kauai, HI](img/to%20identify/2019-11-27_unidentified_needlefish_kauai.jpg)
 * [Looks like an alewife or smelt type thing, Riviera Maya MX](img/to%20identify/2020-02-29_unidentified_baitfish_riviera_maya.jpg)
-* [Some kind of grunt? Riviera Maya MX](img/to%20identify/2020-03-01-unidentified_tropical_fish.jpg)
 * [Split tail somewhat boring. Riviera Maya MX](img/to%20identify/2020-03-01_unidentified_tropical_fish.jpg)
 * [Seems like a bream/porgy of some sort Riviera Maya MX](img/to%20identify/2020_03_01_unidentified_bream_riviera_maya.jpg)
 
