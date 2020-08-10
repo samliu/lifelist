@@ -1,6 +1,19 @@
 # Sam's Fishing Lifelist
 
-This will record all the kinds of fish I have caught.
+I decided to start [lifelisting](https://blog.nature.org/science/2015/09/10/obsessed-nature-fishy-life-listing-fish-fishing-naturalist) since it's fun
+and I mostly catch and release -- my photos were becoming quite disorganized and I was curious to find out how many different kinds of fish I've caught.
+Unfortunately this led me to a few realizations:
+
+1. I didn't take pictures of every species I've ever caught. I'm regretting it now, because I would feel bad if I included those fish. I'll have to get them again.
+2. Some fish look different within the same species; e.g male vs female, barred vs unbarred, anadromous vs freshwater only.
+3. I've hooked up with some fish but failed to land and get a picture of them.
+
+At any rate I'll catch, photograph, and release the fish I missed / failed to get pictures of in due time.
+
+_Note: This list contains mostly the first fish of each species that I managed to photograph, chronologically. The fish pictured is not usually
+the largest of the species that I caught, nor is it even the first of that species that I caught -- it's just the first to get on film. This list
+is also not that reflective of how much I fish, because I mostly do catch the same kinds of fish at my local spots. I don't particularly go out of
+my way to add species to this list._
 
 ## Unique Species List (Photographed)
 
@@ -45,7 +58,7 @@ caught but not identified (see "to identify" folder). I should be at 40 total un
 
 ## Variations
 
-These are not unique species but are unique versions of species on the unique list.
+These are not unique species but are different versions of species on the unique list.
 
 * [Rainbow Trout - Steelhead](img/2019-12-08_steelhead.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Rare native (not stocked).
 * [Barred Surfperch - Unbarred Version](img/doubles/2020-05-22_barred_surfperch_unbarred_version.jpg) - Caught on the northern california coastline near Daly City.
@@ -57,6 +70,7 @@ These are not unique species but are unique versions of species on the unique li
 * Black Rockfish
 * Pumpkinseed Sunfish
 * Longear Sunfish
+* Redbreast Sunfish
 * Atlantic Stingray (when I was young)
 * Anchovy
 * Topsmelt silverside
@@ -89,12 +103,10 @@ These are not unique species but are unique versions of species on the unique li
 
 ## How I identify fish
 
-I haven't caught that many rare fish, so mostly they are easy to recognize.
-But for exotic species or specific subspecies, [Fishbase](https://www.fishbase.us)
-is fairly helpful!
+I haven't caught that many rare fish, so mostly they are easy to recognize. But a few times now I've had to 
+defer to experts or scour through indices. Here are some of the tool I use:
 
-INaturalist is also great if you post locally.
-
-CA DFW also has useful factsheets.
-
-* [Surfperch Identification](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=36617)
+* [Fishbase](https://www.fishbase.us)
+* [INaturalist](https://www.inaturalist.org)
+* CA DFW
+  * [Surfperch Identification](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=36617)
