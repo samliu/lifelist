@@ -35,7 +35,7 @@ caught but not identified (see "to identify" folder). I should be at 40 total un
 * [Northern Pike](img/2018-06-08_northern_pike.jpg) - Caught in Bay Lake, MN.
 * [Rock Bass](img/2018-06-08_rock_bass.png) - Caught in Bay Lake, MN.
 * [Bluegill](img/2018-06-09_bluegill.jpg) - Caught in Bay Lake, MN.
-* [White Crappie](img/2018-08-17_white_crappie.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA.
+* [Black Crappie](img/2018-08-17_black_crappie.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Note: despite being light in color, this is indeed a black crappie (6-7 dorsal spines vs 4-5).
 * [Spotted Bay Bass](img/2018-11-22_spotted_bay_bass.jpg) - Caught in San Diego Bay, CA.
 * [Rainbow Trout](img/2018-12-24_rainbow_trout.jpg) - Caught in the Rogue River, OR.
 * [Jacksmelt](img/2019-03-30_jacksmelt.jpg) - Caught in Santa Barbara, CA.
