@@ -41,7 +41,7 @@ caught but not identified (see "to identify" folder). I should be at 39 total un
 * [Pikeminnow](img/2019-08-30_pikeminnow.jpg) - Caught in the Rogue River, OR.
 * [Leopard Shark](img/2019-09-29_leopard_shark.png) - Caught in the SF Bay, on a friend's boat.
 * [Sevengill Shark](img/2019-09-29_sevengill_shark.jpg) - Caught in the SF Bay, on a friend's boat.
-* [Striped Bass](img/2019-10-06_striped_bass.jpg) - Caught at O Neil Forebay, CA. (17")
+* [Striped Bass](img/2019-10-06_striped_bass.jpg) - Caught at O Neil Forebay, CA. It was in the dark (~6am) so not a clear picture.
 * [Common Carp](img/2019-10-20_common_carp.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA.
 * [Bluefin Trevally](img/2019-11-23_bluefin_trevally.jpg) - Caught at Anini Beach, Kauai.
 * [Pacific Jack Crevalle](img/2019-11-24_papio_pacific_jack_crevalle.jpg) - Caught at Anini Beach, Kauai.
