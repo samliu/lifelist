@@ -14,7 +14,7 @@ _Note: This list contains (usually) the first fish of each species that I manage
 
 ## Unique Species List (Photographed)
 
-34 unique species caught and identified as of August 8, 2020. 5 additional fishes
+35 unique species caught and identified as of August 8, 2020. 4 additional fishes
 caught but not identified (see "to identify" folder). I should be at 39 total unique fish types once those are identified.
 
 * [California Halibut](img/2016-05-01_california_halibut.jpg) - Caught in SF bay on a charter boat.
@@ -23,6 +23,7 @@ caught but not identified (see "to identify" folder). I should be at 39 total un
   for a surfperch! These things are rare in NorCal.
 * [Walleye Surfperch](img/2017-05-13_walleye_surfperch.jpg) - Caught at Santa Cruz Wharf.
 * [Yellow Perch](img/2017-05-26_yellow_perch.jpg) - Caught in the Charles River, Cambridge MA.
+* [White Perch](img/to%20identify/2017-05-26_unidentified_fish_charles_river_cambridge.jpg) Caught in the Charles River, Cambridge MA. Darker variety.
 * [Largemouth Bass](img/2017-05-28_largemouth_bass.jpg) - Caught in the Charles River, Cambridge MA.
 * [Bat Ray](img/2017-07-03_bat_ray.png) - Caught near the channel islands in a sailboat. Fuzzy image was screencapped from video.
 * [Mahi Mahi / Dolphin / Dorado](img/2017-08-16_mahi_mahi.jpg) - Caught off the coast of Todos Santos, MX on a panga boat.
@@ -92,7 +93,6 @@ These are not unique species but are different versions of species on the unique
 
 ## Yet to be identified
 
-* [Potential hybrid, Charles River, Cambridge MA](img/to%20identify/2017-05-26_unidentified_fish_charles_river_cambridge.jpg)
 * [Some kind of needlefish in Kauai, HI](img/to%20identify/2019-11-27_unidentified_needlefish_kauai.jpg)
 * [Looks like an alewife or smelt type thing, Riviera Maya MX](img/to%20identify/2020-02-29_unidentified_baitfish_riviera_maya.jpg)
 * [Split tail somewhat boring. Riviera Maya MX](img/to%20identify/2020-03-01_unidentified_tropical_fish.jpg)
