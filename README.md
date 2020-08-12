@@ -23,11 +23,11 @@ caught but not identified (see "to identify" folder). I should be at 39 total un
   for a surfperch! These things are rare in NorCal.
 * [Walleye Surfperch](img/2017-05-13_walleye_surfperch.jpg) - Caught at Santa Cruz Wharf.
 * [Yellow Perch](img/2017-05-26_yellow_perch.jpg) - Caught in the Charles River, Cambridge MA.
-* [White Perch](img/to%20identify/2017-05-26_unidentified_fish_charles_river_cambridge.jpg) - Caught in the Charles River, Cambridge MA. Darker variety, confirmed by iNaturalist.
+* [White Perch](img/2017-05-26_white_perch.jpg) - Caught in the Charles River, Cambridge MA. Darker variety.
 * [Largemouth Bass](img/2017-05-28_largemouth_bass.jpg) - Caught in the Charles River, Cambridge MA.
 * [Bat Ray](img/2017-07-03_bat_ray.png) - Caught near the channel islands in a sailboat. Fuzzy image was screencapped from video.
 * [Mahi Mahi / Dolphin / Dorado](img/2017-08-16_mahi_mahi.jpg) - Caught off the coast of Todos Santos, MX on a panga boat.
-* [Pacific Yellowfin Tuna](img/2017-08-16_yellowfin_tuna.jpg) - Caught off the coast of Todos Santos, MX on a panga boat.
+* [Pacific Yellowfin Tuna](img/2017-08-16_pacific_yellowfin_tuna.jpg) - Caught off the coast of Todos Santos, MX on a panga boat.
 * [Green Sunfish](img/2017-09-23_green_sunfish.jpg) - Caught in the Guadalupe River, San Jose CA.
 * [Queenfish / Queen Croaker](img/2018-05-04_queen_croaker_queenfish.jpg) - Caught off a pier in San Diego, CA.
 * [Northern Pike](img/2018-06-08_northern_pike.jpg) - Caught in Bay Lake, MN.
