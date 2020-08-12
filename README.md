@@ -23,7 +23,7 @@ caught but not identified (see "to identify" folder). I should be at 39 total un
   for a surfperch! These things are rare in NorCal.
 * [Walleye Surfperch](img/2017-05-13_walleye_surfperch.jpg) - Caught at Santa Cruz Wharf.
 * [Yellow Perch](img/2017-05-26_yellow_perch.jpg) - Caught in the Charles River, Cambridge MA.
-* [White Perch](img/to%20identify/2017-05-26_unidentified_fish_charles_river_cambridge.jpg) Caught in the Charles River, Cambridge MA. Darker variety, confirmed by iNaturalist.
+* [White Perch](img/to%20identify/2017-05-26_unidentified_fish_charles_river_cambridge.jpg) - Caught in the Charles River, Cambridge MA. Darker variety, confirmed by iNaturalist.
 * [Largemouth Bass](img/2017-05-28_largemouth_bass.jpg) - Caught in the Charles River, Cambridge MA.
 * [Bat Ray](img/2017-07-03_bat_ray.png) - Caught near the channel islands in a sailboat. Fuzzy image was screencapped from video.
 * [Mahi Mahi / Dolphin / Dorado](img/2017-08-16_mahi_mahi.jpg) - Caught off the coast of Todos Santos, MX on a panga boat.
