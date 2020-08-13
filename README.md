@@ -59,7 +59,7 @@ caught but not identified (see "to identify" folder). I should be at 38 total un
 These are not unique species but are different versions of species on the unique list.
 
 * [Rainbow Trout - Steelhead](img/doubles/2019-12-08_steelhead.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Rare native (not stocked).
-* [Barred Surfperch - Unbarred Version](img/doubles/2020-05-22_barred_surfperch_unbarred_version.jpg) - Caught on the northern california coastline near Daly City.
+* [Barred Surfperch - unbarred Version](img/doubles/2020-05-22_barred_surfperch_unbarred_version.jpg) - Caught on the northern california coastline near Daly City.
 * [Black Crappie - light colored version](img/doubles/2018-08-17_black_crappie.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Despite being light in color, this is indeed a black crappie (7-8 dorsal spines vs 5-6 on a white crappie; not barred pattern).
 * [Gray/Bermuda Chub - different color](img/doubles/2020_03_01_gray_or_bermuda_chub.jpg) - It's actually impossible to tell the difference between a Bermuda (_Kyphosus sectatrix_) or Gray chub (_Kyphosus Biggibus_) without counting gill rakers, so I will never know which one I caught -- I'm counting them as a single species since they're a complex now. The one on my lifelist is more mature.
 
