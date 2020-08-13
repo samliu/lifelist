@@ -14,8 +14,8 @@ _Note: This list contains (usually) the first fish of each species that I manage
 
 ## Unique Species List (Photographed)
 
-35 unique species caught and identified as of August 8, 2020. 4 additional fishes
-caught but not identified (see "to identify" folder). I should be at 39 total unique fish types once those are identified.
+35 unique species caught and identified as of August 8, 2020. 3 additional fishes
+caught but not identified (see "to identify" folder). I should be at 38 total unique fish types once those are identified.
 
 * [California Halibut](img/2016-05-01_california_halibut.jpg) - Caught in SF bay on a charter boat.
 * [Pacific Mackerel](img/2016-06-17_pacific_mackerel.jpg) - Caught at Pacifica Pier.
@@ -48,7 +48,7 @@ caught but not identified (see "to identify" folder). I should be at 39 total un
 * [Pacific Jack Crevalle](img/2019-11-24_papio_pacific_jack_crevalle.jpg) - Caught at Anini Beach, Kauai.
 * [Bluespotted Cornetfish](img/2019-11-25_bluespotted_cornetfish.jpg) - Caught at Anini Beach, Kauai.
 * [Lizardfish](img/2019-11-25_lizardfish.jpg) - Caught at Anini Beach, Kauai.
-* [Bermuda Chub](img/2020-02-29_bermuda_chub.jpg) - Caught at Riviera Maya, MX.
+* [Gray/Bermuda Chub](img/2020-02-29_bermuda_chub.jpg) - Caught at Riviera Maya, MX.
 * [Atlantic Blue Tang (Blue Tang Surgeonfish)](img/2020-03-01_atlantic_blue_tang.jpg) - Caught at Riviera Maya, MX.
 * [White Grunt](img/2020-03-01-white_grunt.jpg) - Caught at Riviera Maya MX.
 * [Mangrove Snapper](img/2020-03-01_mangrove_snapper.jpg) - Caught at Riviera Maya, MX.
@@ -61,6 +61,7 @@ These are not unique species but are different versions of species on the unique
 * [Rainbow Trout - Steelhead](img/doubles/2019-12-08_steelhead.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Rare native (not stocked).
 * [Barred Surfperch - Unbarred Version](img/doubles/2020-05-22_barred_surfperch_unbarred_version.jpg) - Caught on the northern california coastline near Daly City.
 * [Black Crappie - light colored version](img/doubles/2018-08-17_black_crappie.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA. Despite being light in color, this is indeed a black crappie (7-8 dorsal spines vs 5-6 on a white crappie; not barred pattern).
+* [Gray/Bermuda Chub](img/doubles/2020_03_01_gray_or_bermuda_chub.jpg) - It's actually impossible to tell the difference between a Bermuda (_Kyphosus sectatrix_) or Gray chub (_Kyphosus Biggibus_) without counting gill rakers, so I will never know which one I caught -- I'm counting them as a single species since they're a complex now. This young one is more gray and the one on my lifelist is more colorful / more mature.
 
 ## Not on the list because no picture but fish I've definitely caught
 
@@ -96,7 +97,6 @@ These are not unique species but are different versions of species on the unique
 * [Some kind of needlefish in Kauai, HI](img/to%20identify/2019-11-27_unidentified_needlefish_kauai.jpg)
 * [Looks like an alewife or smelt type thing, Riviera Maya MX](img/to%20identify/2020-02-29_unidentified_baitfish_riviera_maya.jpg)
 * [Split tail somewhat boring. Riviera Maya MX](img/to%20identify/2020-03-01_unidentified_tropical_fish.jpg)
-* [Seems like a bream/porgy of some sort Riviera Maya MX](img/to%20identify/2020_03_01_unidentified_bream_riviera_maya.jpg)
 
 ## How I identify fish
 
