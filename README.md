@@ -17,43 +17,43 @@ _Note: This list contains (usually) the first fish of each species that I manage
 37 unique species caught and identified as of September 9, 2020. 3 additional fishes
 caught but not identified (see "to identify" folder). I should be at 40 total unique fish types once those are identified.
 
-* [California Halibut](img/2016-05-01_california_halibut.jpg) - Caught in SF bay on a charter boat.
-* [Pacific Mackerel](img/2016-06-17_pacific_mackerel.jpg) - Caught at Pacifica Pier.
-* [Pacific Pompano](img/2016-07-24_pacific_pompano.jpg) - Caught at Pacifica Pier; almost mistook it
+* [California Halibut _Paralichthys californicus_](img/2016-05-01_california_halibut.jpg) - Caught in SF bay on a charter boat.
+* [Pacific Mackerel _Scomber japonicus_](img/2016-06-17_pacific_mackerel.jpg) - Caught at Pacifica Pier.
+* [Pacific Pompano _Peprilus simillimus_](img/2016-07-24_pacific_pompano.jpg) - Caught at Pacifica Pier; almost mistook it
   for a surfperch! These things are rare in NorCal.
-* [Walleye Surfperch](img/2017-05-13_walleye_surfperch.jpg) - Caught at Santa Cruz Wharf.
-* [Yellow Perch](img/2017-05-26_yellow_perch.jpg) - Caught in the Charles River, Cambridge MA.
-* [White Perch](img/2017-05-26_white_perch.jpg) - Caught in the Charles River, Cambridge MA. Darker variety.
-* [Largemouth Bass](img/2017-05-28_largemouth_bass.jpg) - Caught in the Charles River, Cambridge MA.
-* [Bat Ray](img/2017-07-03_bat_ray.png) - Caught near the channel islands in a sailboat. Fuzzy image was screencapped from video.
-* [Mahi Mahi / Dolphin / Dorado](img/2017-08-16_mahi_mahi.jpg) - Caught off the coast of Todos Santos, MX on a panga boat.
-* [Pacific Yellowfin Tuna](img/2017-08-16_pacific_yellowfin_tuna.jpg) - Caught off the coast of Todos Santos, MX on a panga boat.
-* [Green Sunfish](img/2017-09-23_green_sunfish.jpg) - Caught in the Guadalupe River, San Jose CA.
-* [Queenfish / Queen Croaker](img/2018-05-04_queen_croaker_queenfish.jpg) - Caught off a pier in San Diego, CA.
-* [Northern Pike](img/2018-06-08_northern_pike.jpg) - Caught in Bay Lake, MN.
-* [Rock Bass](img/2018-06-08_rock_bass.png) - Caught in Bay Lake, MN.
-* [Bluegill](img/2018-06-09_bluegill.jpg) - Caught in Bay Lake, MN.
-* [Spotted Bay Bass](img/2018-11-22_spotted_bay_bass.jpg) - Caught in San Diego Bay, CA.
-* [Rainbow Trout](img/2018-12-24_rainbow_trout.jpg) - Caught in the Rogue River, OR.
-* [Yellow Bullhead Catfish](img/2019-07-05_yellow_bullhead.jpg) - Caught at Gompers Lagoon, Chicago IL.
-* [Jacksmelt](img/2019-03-30_jacksmelt.jpg) - Caught in Santa Barbara, CA.
-* [Black Crappie](img/2019-07-06_black_crappie.jpg) - Caught at Gompers Lagoon, Chicago IL.
-* [Barred Surfperch](img/2019-08-18_barred_surfperch.jpg) - Caught at Half Moon Bay, CA.
-* [Pikeminnow](img/2019-08-30_pikeminnow.jpg) - Caught in the Rogue River, OR.
-* [Leopard Shark](img/2019-09-29_leopard_shark.png) - Caught in the SF Bay, on a friend's boat.
-* [Sevengill Shark](img/2019-09-29_sevengill_shark.jpg) - Caught in the SF Bay, on a friend's boat.
-* [Striped Bass](img/2019-10-06_striped_bass.jpg) - Caught at O Neil Forebay, CA. It was in the dark (~6am) so not a clear picture.
-* [Common Carp](img/2019-10-20_common_carp.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA.
-* [Bluefin Trevally](img/2019-11-23_bluefin_trevally.jpg) - Caught at Anini Beach, Kauai.
-* [Pacific Jack Crevalle](img/2019-11-24_papio_pacific_jack_crevalle.jpg) - Caught at Anini Beach, Kauai.
-* [Bluespotted Cornetfish](img/2019-11-25_bluespotted_cornetfish.jpg) - Caught at Anini Beach, Kauai.
-* [Lizardfish](img/2019-11-25_lizardfish.jpg) - Caught at Anini Beach, Kauai.
-* [Gray/Bermuda Chub](img/2020-02-29_bermuda_chub.jpg) - Caught at Riviera Maya, MX.
-* [Atlantic Blue Tang (Blue Tang Surgeonfish)](img/2020-03-01_atlantic_blue_tang.jpg) - Caught at Riviera Maya, MX.
-* [White Grunt](img/2020-03-01-white_grunt.jpg) - Caught at Riviera Maya MX.
-* [Mangrove Snapper](img/2020-03-01_mangrove_snapper.jpg) - Caught at Riviera Maya, MX.
-* [Sergent Major](img/2020-03-02_sergent_major.jpg) - Caught at Riviera Maya, MX.
-* [Brook Trout](img/2020_09_09_brook_trout.jpg) - Caught in a creek near Bozeman, Montana.
+* [Walleye Surfperch _Hyperprosopon argenteum_](img/2017-05-13_walleye_surfperch.jpg) - Caught at Santa Cruz Wharf.
+* [Yellow Perch _Perca flavescens_](img/2017-05-26_yellow_perch.jpg) - Caught in the Charles River, Cambridge MA.
+* [White Perch _Morone americana_](img/2017-05-26_white_perch.jpg) - Caught in the Charles River, Cambridge MA. Darker variety.
+* [Largemouth Bass _Micropterus salmoides_](img/2017-05-28_largemouth_bass.jpg) - Caught in the Charles River, Cambridge MA.
+* [Bat Ray _Myliobatis californica_](img/2017-07-03_bat_ray.png) - Caught near the channel islands in a sailboat. Fuzzy image was screencapped from video.
+* [Mahi Mahi / Dolphin / Dorado _Coryphaena hippurus_](img/2017-08-16_mahi_mahi.jpg) - Caught off the coast of Todos Santos, MX on a panga boat.
+* [Pacific Yellowfin Tuna _Thunnus albacares_](img/2017-08-16_pacific_yellowfin_tuna.jpg) - Caught off the coast of Todos Santos, MX on a panga boat.
+* [Green Sunfish _Lepomis cyanellus_](img/2017-09-23_green_sunfish.jpg) - Caught in the Guadalupe River, San Jose CA.
+* [Queenfish / Queen Croaker _Seriphus politus_](img/2018-05-04_queen_croaker_queenfish.jpg) - Caught off a pier in San Diego, CA.
+* [Northern Pike _Esox lucius_](img/2018-06-08_northern_pike.jpg) - Caught in Bay Lake, MN.
+* [Rock Bass _Ambloplites rupestris_](img/2018-06-08_rock_bass.png) - Caught in Bay Lake, MN.
+* [Bluegill _Lepomis macrochirus_](img/2018-06-09_bluegill.jpg) - Caught in Bay Lake, MN.
+* [Spotted Bay Bass _Paralabrax maculatofasciatus_](img/2018-11-22_spotted_bay_bass.jpg) - Caught in San Diego Bay, CA.
+* [Rainbow Trout _Oncorhynchus mykiss_](img/2018-12-24_rainbow_trout.jpg) - Caught in the Rogue River, OR.
+* [Yellow Bullhead Catfish _Ameiurus natalis_](img/2019-07-05_yellow_bullhead.jpg) - Caught at Gompers Lagoon, Chicago IL.
+* [Jacksmelt _Atherinopsis californiensis_](img/2019-03-30_jacksmelt.jpg) - Caught in Santa Barbara, CA.
+* [Black Crappie _Pomoxis nigromaculatus_](img/2019-07-06_black_crappie.jpg) - Caught at Gompers Lagoon, Chicago IL.
+* [Barred Surfperch _Amphistichus argenteus_](img/2019-08-18_barred_surfperch.jpg) - Caught at Half Moon Bay, CA.
+* [Northern Pikeminnow _Ptychocheilus oregonensis_](img/2019-08-30_pikeminnow.jpg) - Caught in the Rogue River, OR.
+* [Leopard Shark _Triakis semifasciata_](img/2019-09-29_leopard_shark.png) - Caught in the SF Bay, on a friend's boat.
+* [Sevengill Shark _Notorynchus cepedianus_](img/2019-09-29_sevengill_shark.jpg) - Caught in the SF Bay, on a friend's boat.
+* [Striped Bass _Morone saxatilis_](img/2019-10-06_striped_bass.jpg) - Caught at O Neil Forebay, CA. It was in the dark (~6am) so not a clear picture.
+* [Common Carp _Cyprinus carpio_](img/2019-10-20_common_carp.jpg) - Caught at Stevens Creek Reservoir, Cupertino CA.
+* [Bluefin Trevally _Caranx melampygus_](img/2019-11-23_bluefin_trevally.jpg) - Caught at Anini Beach, Kauai.
+* [Pacific Jack Crevalle _Caranx caninus_](img/2019-11-24_papio_pacific_jack_crevalle.jpg) - Caught at Anini Beach, Kauai.
+* [Bluespotted Cornetfish _Fistularia commersonii_](img/2019-11-25_bluespotted_cornetfish.jpg) - Caught at Anini Beach, Kauai.
+* [Lizardfish _Synodontidae ???_](img/2019-11-25_lizardfish.jpg) - Caught at Anini Beach, Kauai.
+* [Gray/Bermuda Chub _Kyphosus sectatrix/bigibbus_](img/2020-02-29_bermuda_chub.jpg) - Caught at Riviera Maya, MX.
+* [Atlantic Blue Tang (Blue Tang Surgeonfish) _Acanthurus coeruleus_](img/2020-03-01_atlantic_blue_tang.jpg) - Caught at Riviera Maya, MX.
+* [White Grunt _Haemulon plumierii_](img/2020-03-01-white_grunt.jpg) - Caught at Riviera Maya MX.
+* [Mangrove Snapper _Lutjanus griseus_](img/2020-03-01_mangrove_snapper.jpg) - Caught at Riviera Maya, MX.
+* [Sergent Major _Abudefduf saxatilis_](img/2020-03-02_sergent_major.jpg) - Caught at Riviera Maya, MX.
+* [Brook Trout _Salvelinus fontinalis_](img/2020_09_09_brook_trout.jpg) - Caught in a creek near Bozeman, Montana.
 * [Mountain Whitefish _Prosopium williamsoni_](img/2020-09-09_mountain_whitefish.jpg) - Caught in a creek near Bozeman, Montana. The adipose fin is the giveaway that it isn't a sucker -- it's actually a salmonid!
 
 ## Variations
