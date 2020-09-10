@@ -14,8 +14,8 @@ _Note: This list contains (usually) the first fish of each species that I manage
 
 ## Unique Species List (Photographed)
 
-37 unique species caught and identified as of September 9, 2020. 3 additional fishes
-caught but not identified (see "to identify" folder). I should be at 40 total unique fish types once those are identified.
+38 unique species caught and identified as of September 9, 2020. 3 additional fishes
+caught but not identified (see "to identify" folder). I should be at 41 total unique fish types once those are identified.
 
 * [California Halibut _Paralichthys californicus_](img/2016-05-01_california_halibut.jpg) - Caught in SF bay on a charter boat.
 * [Pacific Mackerel _Scomber japonicus_](img/2016-06-17_pacific_mackerel.jpg) - Caught at Pacifica Pier.
