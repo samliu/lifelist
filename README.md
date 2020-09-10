@@ -14,8 +14,8 @@ _Note: This list contains (usually) the first fish of each species that I manage
 
 ## Unique Species List (Photographed)
 
-36 unique species caught and identified as of September 9, 2020. 3 additional fishes
-caught but not identified (see "to identify" folder). I should be at 39 total unique fish types once those are identified.
+37 unique species caught and identified as of September 9, 2020. 3 additional fishes
+caught but not identified (see "to identify" folder). I should be at 40 total unique fish types once those are identified.
 
 * [California Halibut](img/2016-05-01_california_halibut.jpg) - Caught in SF bay on a charter boat.
 * [Pacific Mackerel](img/2016-06-17_pacific_mackerel.jpg) - Caught at Pacifica Pier.
@@ -54,6 +54,7 @@ caught but not identified (see "to identify" folder). I should be at 39 total un
 * [Mangrove Snapper](img/2020-03-01_mangrove_snapper.jpg) - Caught at Riviera Maya, MX.
 * [Sergent Major](img/2020-03-02_sergent_major.jpg) - Caught at Riviera Maya, MX.
 * [Brook Trout](img/2020_09_09_brook_trout.jpg) - Caught in a creek near Bozeman, Montana.
+* [Mountain Whitefish](img/2020-09-09_mountain_whitefish.jpg) - Caught in a creek near Bozeman, Montana. The adipose fin is the giveaway that it isn't a sucker -- it's actually a salmonid!
 
 ## Variations
 
