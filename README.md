@@ -54,7 +54,7 @@ caught but not identified (see "to identify" folder). I should be at 40 total un
 * [Mangrove Snapper](img/2020-03-01_mangrove_snapper.jpg) - Caught at Riviera Maya, MX.
 * [Sergent Major](img/2020-03-02_sergent_major.jpg) - Caught at Riviera Maya, MX.
 * [Brook Trout](img/2020_09_09_brook_trout.jpg) - Caught in a creek near Bozeman, Montana.
-* [Mountain Whitefish](img/2020-09-09_mountain_whitefish.jpg) - Caught in a creek near Bozeman, Montana. The adipose fin is the giveaway that it isn't a sucker -- it's actually a salmonid!
+* [Mountain Whitefish _Prosopium williamsoni_](img/2020-09-09_mountain_whitefish.jpg) - Caught in a creek near Bozeman, Montana. The adipose fin is the giveaway that it isn't a sucker -- it's actually a salmonid!
 
 ## Variations
 
