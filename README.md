@@ -53,6 +53,7 @@ caught but not identified (see "to identify" folder). I should be at 38 total un
 * [White Grunt](img/2020-03-01-white_grunt.jpg) - Caught at Riviera Maya MX.
 * [Mangrove Snapper](img/2020-03-01_mangrove_snapper.jpg) - Caught at Riviera Maya, MX.
 * [Sergent Major](img/2020-03-02_sergent_major.jpg) - Caught at Riviera Maya, MX.
+* [Brook Trout](img/2020_09_09_brook_trout.jpg) - Caught in a creek near Bozeman, Montana.
 
 ## Variations
 
