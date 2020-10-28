@@ -47,7 +47,7 @@ caught but not identified (see "to identify" folder). I should be at 41 total un
 * [Bluefin Trevally _(Caranx melampygus)_](img/2019-11-23_bluefin_trevally.jpg) - Caught at Anini Beach, Kauai.
 * [Pacific Jack Crevalle _(Caranx caninus)_](img/2019-11-24_papio_pacific_jack_crevalle.jpg) - Caught at Anini Beach, Kauai.
 * [Bluespotted Cornetfish _(Fistularia commersonii)_](img/2019-11-25_bluespotted_cornetfish.jpg) - Caught at Anini Beach, Kauai.
-* [Lizardfish _(Synodontidae ???_](img/2019-11-25_lizardfish.jpg) - Caught at Anini Beach, Kauai.
+* [Lizardfish _(Synodontidae ???)_](img/2019-11-25_lizardfish.jpg) - Caught at Anini Beach, Kauai.
 * [Gray/Bermuda Chub _(Kyphosus sectatrix/bigibbus)_](img/2020-02-29_bermuda_chub.jpg) - Caught at Riviera Maya, MX.
 * [Atlantic Blue Tang (Blue Tang Surgeonfish) _(Acanthurus coeruleus)_](img/2020-03-01_atlantic_blue_tang.jpg) - Caught at Riviera Maya, MX.
 * [White Grunt _(Haemulon plumierii)_](img/2020-03-01-white_grunt.jpg) - Caught at Riviera Maya MX.
