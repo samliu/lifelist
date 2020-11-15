@@ -14,8 +14,8 @@ _Note: This list contains (usually) the first fish of each species that I manage
 
 ## Unique Species List (Photographed)
 
-38 unique species caught and identified as of September 9, 2020. 3 additional fishes
-caught but not identified (see "to identify" folder). I should be at 41 total unique fish types once those are identified.
+41 unique species caught and identified as of November 15, 2020. 3 additional fishes
+caught but not identified (see "to identify" folder). I should be at 44 total unique fish types once those are identified.
 
 * [California Halibut _(Paralichthys californicus)_](img/2016-05-01_california_halibut.jpg) - Caught in SF bay on a charter boat.
 * [Pacific Mackerel _(Scomber japonicus)_](img/2016-06-17_pacific_mackerel.jpg) - Caught at Pacifica Pier.
@@ -56,6 +56,9 @@ caught but not identified (see "to identify" folder). I should be at 41 total un
 * [White Croaker _(Genyonemus lineatus)_](img/2020-08-22_white_croaker.jpg) - Caught in Aptos, CA.
 * [Brook Trout _(Salvelinus fontinalis)_](img/2020_09_09_brook_trout.jpg) - Caught in a creek near Bozeman, Montana.
 * [Mountain Whitefish _(Prosopium williamsoni)_](img/2020-09-09_mountain_whitefish.jpg) - Caught in a creek near Bozeman, Montana. The adipose fin is the giveaway that it isn't a sucker -- it's actually a salmonid!
+* [Smallmouth Bass (Micropterus dolomieu)](img/2020-09-19_smallmouth_bass.jpg) - Caught in the Allegheny River from the banks of Pittsburgh, PA.
+* [Atlantic Menhaden (Brevoortia tyrannus)](img/2020-10-03_peanut_bunker.jpg) - It snagged on my deadly dick spoon when going for stripers. Caught on the surf in Sandy Hook, NJ.
+* [Hickory Shad(Alosa mediocris)](img/2020-11-09_hickory_shad.jpg) - On a sand eel fly used as a bucktail teaser. Caught on the surf in Sandy Hook, NJ.
 
 ## Variations
 
