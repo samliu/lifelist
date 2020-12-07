@@ -48,7 +48,7 @@ caught but not identified (see "to identify" folder). I should be at 45 total un
 * [Pacific Jack Crevalle _(Caranx caninus)_](img/2019-11-24_papio_pacific_jack_crevalle.jpg) - On a whipping rig, curly tailed grub. Caught at Anini Beach, Kauai.
 * [Bluespotted Cornetfish _(Fistularia commersonii)_](img/2019-11-25_bluespotted_cornetfish.jpg) - On a whipping rig, curly tailed grub. Caught at Anini Beach, Kauai.
 * [Lizardfish _(Synodontidae ???)_](img/2019-11-25_lizardfish.jpg) - On a ceramic popper bigger than itself! Caught at Anini Beach, Kauai.
-* [Gray/Bermuda Chub _(Kyphosus sectatrix/bigibbus)_](img/2020-02-29_bermuda_chub.jpg) - On bait. Caught at Riviera Maya, MX.
+* [Gray/Bermuda Sea Chub _(Kyphosus sectatrix/bigibbus)_](img/2020-02-29_bermuda_chub.jpg) - On bait. Caught at Riviera Maya, MX.
 * [Atlantic Blue Tang (Blue Tang Surgeonfish) _(Acanthurus coeruleus)_](img/2020-03-01_atlantic_blue_tang.jpg) - On bait. Caught at Riviera Maya, MX.
 * [White Grunt _(Haemulon plumierii)_](img/2020-03-01-white_grunt.jpg) - On bait. Caught at Riviera Maya MX.
 * [Mangrove Snapper _(Lutjanus griseus)_](img/2020-03-01_mangrove_snapper.jpg) - On bait. Caught at Riviera Maya, MX.
@@ -60,6 +60,7 @@ caught but not identified (see "to identify" folder). I should be at 45 total un
 * [Atlantic Menhaden _(Brevoortia tyrannus)_](img/2020-10-03_peanut_bunker.jpg) - Snagged on my deadly dick spoon when going for stripers; normally don't count snags but you can't really catch Menhaden any other way + it was unintentional. Caught on the surf in Sandy Hook, NJ.
 * [Hickory Shad _(Alosa mediocris)_](img/2020-11-09_hickory_shad.jpg) - On a sand eel fly used as a bucktail teaser. Caught on the surf in Sandy Hook, NJ.
 * [Tautog _(Tautoga onitis)_](img/2020-11-08_tautog.jpg) - On a sand crab on a high-low rig. Caught in the Manasquan Inlet, NJ.
+* [Guadalupe Bass _(Micropterus treculii)_](img/2020-11-26_guadalupe_bass.jpg) - On a drop shot worm. Caught in the Colorado River from Austin, TX.
 
 ## Variations
 
