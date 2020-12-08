@@ -78,7 +78,6 @@ These are not unique species but are different versions of species on the unique
 * Blue Rockfish
 * Black Rockfish
 * Pumpkinseed Sunfish
-* Longear Sunfish
 * Redbreast Sunfish
 * Atlantic Stingray (when I was young)
 * Anchovy
