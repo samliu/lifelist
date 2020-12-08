@@ -61,6 +61,7 @@ caught but not identified (see "to identify" folder). I should be at 45 total un
 * [Hickory Shad _(Alosa mediocris)_](img/2020-11-09_hickory_shad.jpg) - On a sand eel fly used as a bucktail teaser. Caught on the surf in Sandy Hook, NJ.
 * [Tautog _(Tautoga onitis)_](img/2020-11-08_tautog.jpg) - On a sand crab on a high-low rig. Caught in the Manasquan Inlet, NJ.
 * [Guadalupe Bass _(Micropterus treculii)_](img/2020-11-26_guadalupe_bass.jpg) - On a drop shot worm. Caught in the Colorado River from Austin, TX.
+* [Longear Sunfish _(Lepomis megalotis)_](img/2020-11-26_longear_sunfish_austin.jpg) - On a tiny drop shot. Caught in the Colorado River from Austin, TX.
 
 ## Variations
 
