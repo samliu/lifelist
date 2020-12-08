@@ -14,8 +14,8 @@ _Note: This list contains (usually) the first fish of each species that I manage
 
 ## Unique Species List (Photographed)
 
-44 unique species caught and identified as of November 26, 2020. 3 additional fishes
-caught but not identified (see "to identify" folder). I should be at 47 total unique fish types once those are identified.
+45 unique species caught and identified as of November 26, 2020. 3 additional fishes
+caught but not identified (see "to identify" folder). I should be at 48 total unique fish types once those are identified.
 
 * [California Halibut _(Paralichthys californicus)_](img/2016-05-01_california_halibut.jpg) - On a live-lined anchovy. Caught in SF bay on a charter boat.
 * [Pacific Mackerel _(Scomber japonicus)_](img/2016-06-17_pacific_mackerel.jpg) - On a sabiki rig. Caught at Pacifica Pier.
@@ -56,6 +56,7 @@ caught but not identified (see "to identify" folder). I should be at 47 total un
 * [White Croaker _(Genyonemus lineatus)_](img/2020-08-22_white_croaker.jpg) - On a sand crab. Caught in Aptos, CA.
 * [Brook Trout _(Salvelinus fontinalis)_](img/2020_09_09_brook_trout.jpg) - On the fly. Caught in a creek near Bozeman, Montana.
 * [Mountain Whitefish _(Prosopium williamsoni)_](img/2020-09-09_mountain_whitefish.jpg) - On the fly. Caught in a creek near Bozeman, Montana. The adipose fin is the giveaway that it isn't a sucker -- it's actually a salmonid!
+* [Shellcracker / Redear Sunfish _(Lepomis microlophus)_][img/2020-09-10_redear_sunfish.jpg] - Caught on a little worm in Montana's Lake Josephine.
 * [Smallmouth Bass _(Micropterus dolomieu)_](img/2020-09-19_smallmouth_bass.jpg) - On a 1/8oz jig w/ paddletail swimbait. Caught in the Allegheny River from the banks of Pittsburgh, PA.
 * [Atlantic Menhaden _(Brevoortia tyrannus)_](img/2020-10-03_peanut_bunker.jpg) - Snagged on my deadly dick spoon when going for stripers; normally don't count snags but you can't really catch Menhaden any other way + it was unintentional. Caught on the surf in Sandy Hook, NJ.
 * [Hickory Shad _(Alosa mediocris)_](img/2020-11-09_hickory_shad.jpg) - On a sand eel fly used as a bucktail teaser. Caught on the surf in Sandy Hook, NJ.
