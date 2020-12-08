@@ -56,7 +56,7 @@ caught but not identified (see "to identify" folder). I should be at 48 total un
 * [White Croaker _(Genyonemus lineatus)_](img/2020-08-22_white_croaker.jpg) - On a sand crab. Caught in Aptos, CA.
 * [Brook Trout _(Salvelinus fontinalis)_](img/2020_09_09_brook_trout.jpg) - On the fly. Caught in a creek near Bozeman, Montana.
 * [Mountain Whitefish _(Prosopium williamsoni)_](img/2020-09-09_mountain_whitefish.jpg) - On the fly. Caught in a creek near Bozeman, Montana. The adipose fin is the giveaway that it isn't a sucker -- it's actually a salmonid!
-* [Shellcracker / Redear Sunfish _(Lepomis microlophus)_][img/2020-09-10_redear_sunfish.jpg] - Caught on a little worm in Montana's Lake Josephine.
+* [Shellcracker / Redear Sunfish _(Lepomis microlophus)_](img/2020-09-10_redear_sunfish.jpg) - Caught on a little worm in Montana's Lake Josephine.
 * [Smallmouth Bass _(Micropterus dolomieu)_](img/2020-09-19_smallmouth_bass.jpg) - On a 1/8oz jig w/ paddletail swimbait. Caught in the Allegheny River from the banks of Pittsburgh, PA.
 * [Atlantic Menhaden _(Brevoortia tyrannus)_](img/2020-10-03_peanut_bunker.jpg) - Snagged on my deadly dick spoon when going for stripers; normally don't count snags but you can't really catch Menhaden any other way + it was unintentional. Caught on the surf in Sandy Hook, NJ.
 * [Hickory Shad _(Alosa mediocris)_](img/2020-11-09_hickory_shad.jpg) - On a sand eel fly used as a bucktail teaser. Caught on the surf in Sandy Hook, NJ.
