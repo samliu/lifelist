@@ -89,6 +89,7 @@ These are not unique species but are different versions of species on the unique
 
 * Barracuda - 6ft ate the 4-5lbs fish at the end of my line, pulled out drag until my 20lbs line frayed from its teeth.
 * Cutthroat trout - Jumped out of the water when it hit my hopper near mammoth lakes.
+* Summer Flounder (_Paralichthys dentatus_) - Got off before I could hoist it up the rocks.
 
 ## Species Specific Size Records
 
