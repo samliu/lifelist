@@ -42,7 +42,7 @@ caught but not identified (see "to identify" folder). I should be at 48 total un
 * [Northern Pikeminnow _(Ptychocheilus oregonensis)_](img/2019-08-30_pikeminnow.jpg) - Caught in the Rogue River, OR.
 * [Leopard Shark _(Triakis semifasciata)_](img/2019-09-29_leopard_shark.png) - On squid/salmon combo bait. Caught in the SF Bay, on a friend's boat.
 * [Sevengill Shark _(Notorynchus cepedianus)_](img/2019-09-29_sevengill_shark.jpg) - On squid/salmon combo bait. Caught in the SF Bay, on a friend's boat.
-* [Striped Bass _(Morone saxatilis)_](img/special occasion/2020-10-10_rhode_island_striper.jpg) - Note to those silly striper guys: I mainly use a fish grip for their benefit. Much easier to get the hook off and avoid touching them with dry hands. On a bucktail in Quonochontaug, CT.
+* [Striped Bass _(Morone saxatilis)_](img/special%20occasion/2020-10-10_rhode_island_striper.jpg) - Note to those silly striper guys: I mainly use a fish grip for their benefit. Much easier to get the hook off and avoid touching them with dry hands. On a bucktail in Quonochontaug, CT.
 * [Common Carp _(Cyprinus carpio)_](img/2019-10-20_common_carp.jpg) - On whole kernel corn. Caught at Stevens Creek Reservoir, Cupertino CA.
 * [Bluefin Trevally _(Caranx melampygus)_](img/2019-11-23_bluefin_trevally.jpg) - On a whipping rig, curly tailed grub. Caught at Anini Beach, Kauai.
 * [Pacific Jack Crevalle _(Caranx caninus)_](img/2019-11-24_papio_pacific_jack_crevalle.jpg) - On a whipping rig, curly tailed grub. Caught at Anini Beach, Kauai.
