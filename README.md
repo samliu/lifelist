@@ -106,7 +106,7 @@ These are not unique species but are different versions of species on the unique
 
 * [Some kind of needlefish in Kauai, HI](img/to%20identify/2019-11-27_unidentified_needlefish_kauai.jpg)
 * [Looks like an alewife or smelt type thing, Riviera Maya MX](img/to%20identify/2020-02-29_unidentified_baitfish_riviera_maya.jpg)
-* [Split tail somewhat boring. Riviera Maya MX](img/to%20identify/2020-03-01_unidentified_tropical_fish.jpg)
+* [Split tail, forgot to get a closeup. Riviera Maya MX](img/to%20identify/2020-03-01_unidentified_tropical_fish.jpg)
 
 ## How I identify fish
 
