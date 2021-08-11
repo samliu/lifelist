@@ -14,8 +14,8 @@ _Note: This list contains (usually) the first fish of each species that I manage
 
 ## Unique Species List (Photographed)
 
-45 unique species caught and identified as of November 26, 2020. 3 additional fishes
-caught but not identified (see "to identify" folder). I should be at 48 total unique fish types once those are identified.
+48 unique species caught and identified as of August 11, 2021. 3 additional fishes
+caught but not identified (see "to identify" folder). I should be at 51 total unique fish types once those are identified.
 
 * [California Halibut _(Paralichthys californicus)_](img/2016-05-01_california_halibut.jpg) - On a live-lined anchovy. Caught in SF bay on a charter boat.
 * [Pacific Mackerel _(Scomber japonicus)_](img/2016-06-17_pacific_mackerel.jpg) - On a sabiki rig. Caught at Pacifica Pier.
@@ -63,6 +63,9 @@ caught but not identified (see "to identify" folder). I should be at 48 total un
 * [Tautog _(Tautoga onitis)_](img/2020-11-08_tautog.jpg) - On a sand crab on a high-low rig. Released quickly, sad I didn't have wet hands but was high up from the water. Caught in the Manasquan Inlet, NJ.
 * [Guadalupe Bass _(Micropterus treculii)_](img/2020-11-26_guadalupe_bass.jpg) - On a drop shot worm. Caught in the Colorado River from Austin, TX.
 * [Longear Sunfish _(Lepomis megalotis)_](img/2020-11-26_longear_sunfish_austin.jpg) - On a tiny drop shot. Caught in the Colorado River from Austin, TX.
+* [Stocky Hawkfish _(Cirrhitus pinnulatus)_](img/2021-08-09_stocky_hawkfish.jpeg) - Caught on a whipping rig with a grub. Anini Beach, Kauai HI.
+* [Bluestripe Snapper _(Lutjanus kasmira)_](img/2021-08-10_bluestripe_snapper.jpeg) - Caught on a Hawaiian Angler Strip, blue, with tiny hook. Kalihiwai beach, Kauai HI.
+* [Christmas Wrasse _(Thalassoma trilobatum)_](img/2021-08-10_christmas_wrasse.jpeg) - Caught on shrimp. Tunnels beach, Kauai HI. Note: as of August 2021 there were not yet regulations for fishing on this beach, but in the future it will probably require a permit.
 
 ## Variations
 
