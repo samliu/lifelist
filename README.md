@@ -14,8 +14,8 @@ _Note: This list contains (usually) the first fish of each species that I manage
 
 ## Unique Species List (Photographed)
 
-48 unique species caught and identified as of August 11, 2021. 3 additional fishes
-caught but not identified (see "to identify" folder). I should be at 51 total unique fish types once those are identified.
+50 unique species caught and fully identified as of August 13, 2021. 4 additional species
+caught but not fully identified, and a bunch caught but not recorded in pictures so omitted here.
 
 * [California Halibut _(Paralichthys californicus)_](img/2016-05-01_california_halibut.jpg) - On a live-lined anchovy. Caught in SF bay on a charter boat.
 * [Pacific Mackerel _(Scomber japonicus)_](img/2016-06-17_pacific_mackerel.jpg) - On a sabiki rig. Caught at Pacifica Pier.
@@ -47,7 +47,6 @@ caught but not identified (see "to identify" folder). I should be at 51 total un
 * [Bluefin Trevally _(Caranx melampygus)_](img/2019-11-23_bluefin_trevally.jpg) - On a whipping rig, curly tailed grub. Caught at Anini Beach, Kauai.
 * [Pacific Jack Crevalle _(Caranx caninus)_](img/2019-11-24_papio_pacific_jack_crevalle.jpg) - On a whipping rig, curly tailed grub. Caught at Anini Beach, Kauai.
 * [Bluespotted Cornetfish _(Fistularia commersonii)_](img/2019-11-25_bluespotted_cornetfish.jpg) - On a whipping rig, curly tailed grub. Caught at Anini Beach, Kauai.
-* [Lizardfish _(Synodontidae ???)_](img/2019-11-25_lizardfish.jpg) - On a ceramic popper bigger than itself! Caught at Anini Beach, Kauai.
 * [Gray/Bermuda Sea Chub _(Kyphosus sectatrix/bigibbus)_](img/2020-02-29_bermuda_chub.jpg) - On bait. Caught at Riviera Maya, MX.
 * [Atlantic Blue Tang (Blue Tang Surgeonfish) _(Acanthurus coeruleus)_](img/2020-03-01_atlantic_blue_tang.jpg) - On bait. Caught at Riviera Maya, MX.
 * [White Grunt _(Haemulon plumierii)_](img/2020-03-01-white_grunt.jpg) - On bait. Caught at Riviera Maya MX.
@@ -110,7 +109,9 @@ These are not unique species but are different versions of species on the unique
 
 ## Yet to be identified
 
+* [Lizardfish _(Synodontidae ???)_](img/2019-11-25_lizardfish.jpg) - On a ceramic popper bigger than itself! Caught at Anini Beach, Kauai. Not sure if I can get a better identification :(
 * [Some kind of needlefish in Kauai, HI](img/to%20identify/2019-11-27_unidentified_needlefish_kauai.jpg)
+* [Another needlefish, probably same as above](img/2021-08-12_needlefish.jpeg)
 * [Looks like an alewife or smelt type thing, Riviera Maya MX](img/to%20identify/2020-02-29_unidentified_baitfish_riviera_maya.jpg)
 * [Split tail, forgot to get a closeup. Riviera Maya MX](img/to%20identify/2020-03-01_unidentified_tropical_fish.jpg)
 
