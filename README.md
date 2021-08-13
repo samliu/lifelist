@@ -51,7 +51,7 @@ caught but not fully identified, and a bunch caught but not recorded in pictures
 * [Atlantic Blue Tang (Blue Tang Surgeonfish) _(Acanthurus coeruleus)_](img/2020-03-01_atlantic_blue_tang.jpg) - On bait. Caught at Riviera Maya, MX.
 * [White Grunt _(Haemulon plumierii)_](img/2020-03-01-white_grunt.jpg) - On bait. Caught at Riviera Maya MX.
 * [Mangrove Snapper _(Lutjanus griseus)_](img/2020-03-01_mangrove_snapper.jpg) - On bait. Caught at Riviera Maya, MX.
-* [Sergent Major _(Abudefduf saxatilis)_](img/2020-03-02_sergent_major.jpg) - On bait. Caught at Riviera Maya, MX.
+* [Sergeant Major _(Abudefduf saxatilis)_](img/2020-03-02_sergent_major.jpg) - On bait. Caught at Riviera Maya, MX.
 * [White Croaker _(Genyonemus lineatus)_](img/2020-08-22_white_croaker.jpg) - On a sand crab. Caught in Aptos, CA.
 * [Brook Trout _(Salvelinus fontinalis)_](img/2020_09_09_brook_trout.jpg) - On the fly. Caught in a creek near Bozeman, Montana.
 * [Mountain Whitefish _(Prosopium williamsoni)_](img/2020-09-09_mountain_whitefish.jpg) - On the fly. Caught in a creek near Bozeman, Montana. The adipose fin is the giveaway that it isn't a sucker -- it's actually a salmonid!
