@@ -66,6 +66,9 @@ caught but not identified (see "to identify" folder). I should be at 51 total un
 * [Stocky Hawkfish _(Cirrhitus pinnulatus)_](img/2021-08-09_stocky_hawkfish.jpeg) - Caught on a whipping rig with a grub. Anini Beach, Kauai HI.
 * [Bluestripe Snapper _(Lutjanus kasmira)_](img/2021-08-10_bluestripe_snapper.jpeg) - Caught on a Hawaiian Angler Strip, blue, with tiny hook. Kalihiwai beach, Kauai HI.
 * [Christmas Wrasse _(Thalassoma trilobatum)_](img/2021-08-10_christmas_wrasse.jpeg) - Caught on shrimp. Tunnels beach, Kauai HI. Note: as of August 2021 there were not yet regulations for fishing on this beach, but in the future it will probably require a permit.
+* [Blackspot Damselfish (Blackspot Sergeant) (Kupipi) _(Abudefduf sordidus)_](img/2021-08-11_blackspot_damselfish.jpeg) - Caught on shrimp. Tunnels beach, Kauai HI.
+* [Saddle Wrasse (Hinalea lauwili) _(Thalassoma duperrey)_](img/2021-08-11_saddle_wrasse.jpeg) - Caught on shrimp. Tunnels beach, Kauai.
+* [Bigeye Scad (Akule, halalu) _(Selar crumenophthalmus)_](img/2021-08-12_bigeye_scad.jpeg) -  Caught on a hawaiian angler strip in aqua blue, with 4lbs test leader about 8ft long, at Moloaa beach, Kauai HI. Very tricky fish to catch.
 
 ## Variations
 
