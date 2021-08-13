@@ -44,10 +44,10 @@ caught but not fully identified, and a bunch caught but not recorded in pictures
 * [Sevengill Shark _(Notorynchus cepedianus)_](img/2019-09-29_sevengill_shark.jpg) - On squid/salmon combo bait. Caught in the SF Bay, on a friend's boat.
 * [Striped Bass _(Morone saxatilis)_](img/special%20occasion/2020-10-10_rhode_island_striper.jpg) - Note to those silly striper guys: I mainly use a fish grip for their benefit. Much easier to get the hook off and avoid touching them with dry hands. On a bucktail in Quonochontaug, CT.
 * [Common Carp _(Cyprinus carpio)_](img/2019-10-20_common_carp.jpg) - On whole kernel corn. Caught at Stevens Creek Reservoir, Cupertino CA.
-* [Bluefin Trevally _(Caranx melampygus)_](img/2019-11-23_bluefin_trevally.jpg) - On a whipping rig, curly tailed grub. Caught at Anini Beach, Kauai.
-* [Pacific Jack Crevalle _(Caranx caninus)_](img/2019-11-24_papio_pacific_jack_crevalle.jpg) - On a whipping rig, curly tailed grub. Caught at Anini Beach, Kauai.
+* [Bluefin Trevally (Omilu) _(Caranx melampygus)_](img/2019-11-23_bluefin_trevally.jpg) - On a whipping rig, curly tailed grub. Caught at Anini Beach, Kauai.
+* [Pacific Jack Crevalle (Papio) _(Caranx caninus)_](img/2019-11-24_papio_pacific_jack_crevalle.jpg) - On a whipping rig, curly tailed grub. Caught at Anini Beach, Kauai.
 * [Bluespotted Cornetfish _(Fistularia commersonii)_](img/2019-11-25_bluespotted_cornetfish.jpg) - On a whipping rig, curly tailed grub. Caught at Anini Beach, Kauai.
-* [Gray/Bermuda Sea Chub _(Kyphosus sectatrix/bigibbus)_](img/2020-02-29_bermuda_chub.jpg) - On bait. Caught at Riviera Maya, MX.
+* [Gray/Bermuda Sea Chub (Nenue) _(Kyphosus sectatrix/bigibbus)_](img/2020-02-29_bermuda_chub.jpg) - On bait. Caught at Riviera Maya, MX.
 * [Atlantic Blue Tang (Blue Tang Surgeonfish) _(Acanthurus coeruleus)_](img/2020-03-01_atlantic_blue_tang.jpg) - On bait. Caught at Riviera Maya, MX.
 * [White Grunt _(Haemulon plumierii)_](img/2020-03-01-white_grunt.jpg) - On bait. Caught at Riviera Maya MX.
 * [Mangrove Snapper _(Lutjanus griseus)_](img/2020-03-01_mangrove_snapper.jpg) - On bait. Caught at Riviera Maya, MX.
@@ -62,8 +62,8 @@ caught but not fully identified, and a bunch caught but not recorded in pictures
 * [Tautog _(Tautoga onitis)_](img/2020-11-08_tautog.jpg) - On a sand crab on a high-low rig. Released quickly, sad I didn't have wet hands but was high up from the water. Caught in the Manasquan Inlet, NJ.
 * [Guadalupe Bass _(Micropterus treculii)_](img/2020-11-26_guadalupe_bass.jpg) - On a drop shot worm. Caught in the Colorado River from Austin, TX.
 * [Longear Sunfish _(Lepomis megalotis)_](img/2020-11-26_longear_sunfish_austin.jpg) - On a tiny drop shot. Caught in the Colorado River from Austin, TX.
-* [Stocky Hawkfish _(Cirrhitus pinnulatus)_](img/2021-08-09_stocky_hawkfish.jpeg) - Caught on a whipping rig with a grub. Anini Beach, Kauai HI.
-* [Bluestripe Snapper _(Lutjanus kasmira)_](img/2021-08-10_bluestripe_snapper.jpeg) - Caught on a Hawaiian Angler Strip, blue, with tiny hook. Kalihiwai beach, Kauai HI.
+* [Stocky Hawkfish (Po‘opa‘a) _(Cirrhitus pinnulatus)_](img/2021-08-09_stocky_hawkfish.jpeg) - Caught on a whipping rig with a grub. Anini Beach, Kauai HI.
+* [Bluestripe Snapper (Ta‘ape) _(Lutjanus kasmira)_](img/2021-08-10_bluestripe_snapper.jpeg) - Caught on a Hawaiian Angler Strip, blue, with tiny hook. Kalihiwai beach, Kauai HI.
 * [Christmas Wrasse _(Thalassoma trilobatum)_](img/2021-08-10_christmas_wrasse.jpeg) - Caught on shrimp. Tunnels beach, Kauai HI. Note: as of August 2021 there were not yet regulations for fishing on this beach, but in the future it will probably require a permit.
 * [Blackspot Damselfish (Blackspot Sergeant) (Kupipi) _(Abudefduf sordidus)_](img/2021-08-11_blackspot_damselfish.jpeg) - Caught on shrimp. Tunnels beach, Kauai HI.
 * [Saddle Wrasse (Hinalea lauwili) _(Thalassoma duperrey)_](img/2021-08-11_saddle_wrasse.jpeg) - Caught on shrimp. Tunnels beach, Kauai.
