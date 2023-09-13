@@ -68,6 +68,7 @@ caught but not fully identified, and a bunch caught but not recorded in pictures
 * [Blackspot Damselfish (Blackspot Sergeant) (Kupipi) _(Abudefduf sordidus)_](img/2021-08-11_blackspot_damselfish.jpeg) - Caught on shrimp. Tunnels beach, Kauai HI.
 * [Saddle Wrasse (Hinalea lauwili) _(Thalassoma duperrey)_](img/2021-08-11_saddle_wrasse.jpeg) - Caught on shrimp. Tunnels beach, Kauai.
 * [Bigeye Scad (Akule, halalu) _(Selar crumenophthalmus)_](img/2021-08-12_bigeye_scad.jpeg) -  Caught on a hawaiian angler strip in aqua blue, with 4lbs test leader about 8ft long, at Moloaa beach, Kauai HI. Very tricky fish to catch.
+* [Spotted Bass (_Micropterus punctulatus_)]() - Caught on a keitech paddletail in Lexington Reservoir, CA, near the dam but not on it.
 
 ## Variations
 
