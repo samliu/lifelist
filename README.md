@@ -14,7 +14,7 @@ _Note: This list contains (usually) the first fish of each species that I manage
 
 ## Unique Species List (Photographed)
 
-50 unique species caught and fully identified as of August 13, 2021. 4 additional species
+56 unique species caught and fully identified as of September 13, 2023. 4 additional species
 caught but not fully identified, and a bunch caught but not recorded in pictures so omitted here.
 
 * [California Halibut _(Paralichthys californicus)_](img/2016-05-01_california_halibut.jpg) - On a live-lined anchovy. Caught in SF bay on a charter boat.
