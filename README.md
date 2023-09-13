@@ -69,6 +69,14 @@ caught but not fully identified, and a bunch caught but not recorded in pictures
 * [Saddle Wrasse (Hinalea lauwili) _(Thalassoma duperrey)_](img/2021-08-11_saddle_wrasse.jpeg) - Caught on shrimp. Tunnels beach, Kauai.
 * [Bigeye Scad (Akule, halalu) _(Selar crumenophthalmus)_](img/2021-08-12_bigeye_scad.jpeg) -  Caught on a hawaiian angler strip in aqua blue, with 4lbs test leader about 8ft long, at Moloaa beach, Kauai HI. Very tricky fish to catch.
 * [Spotted Bass (_Micropterus punctulatus_)]() - Caught on a keitech paddletail in Lexington Reservoir, CA, near the dam but not on it.
+* [Ladyfish (_Elops Saurus_)]() - Caught on a 3/8oz orange/white goofy jig tipped with orange/white sand flea "fish bites." Jigged with pop-pop-pause pattern.
+* [Gulf Flounder (_Paralichthys albigutta_)]() - Caught on an olive/white sand eel teaser tied above my goofy jig. Identify this using the dark spots near the tail - they form a triangle.
+* [Northern Kingfish (_Menticirrhus saxatilis_)]() - Caught mostly on sand flea fishbites on size four hook.
+* [Gulf Kingfish (_Menticirrhus littoralis_)]() - There were a lot of these and I caught them on goofy jigs, size 0.75L silver holo deadly dick, and sand flea fishbites on a size four hook.
+* [Florida Pompano (_Trachinotus carolinus_)]() - Caught on goofy jig tipped with sand flea fishbites.  Orange/white.
+* [Crevalle jack (_Caranx hippos_)]() - Caught on goofy jig tipped with sand flea fishbites.  Orange/white.
+* [Leatherjacket (_Oligoplites saurus_)]() - in the Jack family; caught on goofy jig tipped with sand flea fishbites. Orange/white.
+* [Hardhead Catfish (_Arius felis_)]() - Caught a lot of these on size 16 sabiki tipped with finger mullet, at night.
 
 ## Variations
 
