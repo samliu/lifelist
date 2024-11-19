@@ -14,7 +14,7 @@ _Note: This list contains (usually) the first fish of each species that I manage
 
 ## Unique Species List (Photographed)
 
-60 unique species caught and fully identified as of November 19, 2024. 4 additional species
+61 unique species caught and fully identified as of November 19, 2024. 4 additional species
 caught but not fully identified, and more caught but not recorded in pictures (thus omitted here).
 
 * [California Halibut _(Paralichthys californicus)_](img/2016-05-01_california_halibut.jpg) - On a live-lined anchovy. Caught in SF bay on a charter boat.
@@ -78,6 +78,7 @@ caught but not fully identified, and more caught but not recorded in pictures (t
 * [Leatherjacket (_Oligoplites saurus_)](img/2023-09-09_leatherjacket.jpg) - in the Jack family; caught on goofy jig tipped with sand flea fishbites. Orange/white.
 * [Hardhead Catfish (_Arius felis_)](img/2023-09-10_hardhead_catfish.jpg) - Caught a lot of these on size 16 sabiki tipped with finger mullet, at night.
 * [Summer Flounder (_Paralichthys dentatus_)](img/2024_09_05_summer_flounder.jpg) - Caught on a drop-shot bunker chunk (lol) near a rocky bottomed stretch of Sandy Hook, NJ. This was a keeper.
+* [Californian Anchovy (_Engraulis mordax_)](img/2023_04_11_anchovy.jpg) - Caught on a tiny sabiki rig off the pier. Pacifica, CA.
 
 ## Variations
 
