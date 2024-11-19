@@ -14,8 +14,8 @@ _Note: This list contains (usually) the first fish of each species that I manage
 
 ## Unique Species List (Photographed)
 
-59 unique species caught and fully identified as of September 13, 2023. 4 additional species
-caught but not fully identified, and a bunch caught but not recorded in pictures so omitted here.
+60 unique species caught and fully identified as of November 19, 2024. 4 additional species
+caught but not fully identified, and more caught but not recorded in pictures (thus omitted here).
 
 * [California Halibut _(Paralichthys californicus)_](img/2016-05-01_california_halibut.jpg) - On a live-lined anchovy. Caught in SF bay on a charter boat.
 * [Pacific Mackerel _(Scomber japonicus)_](img/2016-06-17_pacific_mackerel.jpg) - On a sabiki rig. Caught at Pacifica Pier.
