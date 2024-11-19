@@ -77,6 +77,7 @@ caught but not fully identified, and a bunch caught but not recorded in pictures
 * [Crevalle jack (_Caranx hippos_)](img/2023-09-09_crevalle_jack.jpg) - Caught on goofy jig tipped with sand flea fishbites.  Orange/white.
 * [Leatherjacket (_Oligoplites saurus_)](img/2023-09-09_leatherjacket.jpg) - in the Jack family; caught on goofy jig tipped with sand flea fishbites. Orange/white.
 * [Hardhead Catfish (_Arius felis_)](img/2023-09-10_hardhead_catfish.jpg) - Caught a lot of these on size 16 sabiki tipped with finger mullet, at night.
+* [Summer Flounder (_Paralichthys dentatus_)](img/2024_09_05_summer_flounder.jpg) - Caught on a drop-shot bunker chunk (lol) near a rocky bottomed stretch of Sandy Hook, NJ. This was a keeper.
 
 ## Variations
 
@@ -103,7 +104,6 @@ These are not unique species but are different versions of species on the unique
 
 * Barracuda - 6ft ate the 4-5lbs fish at the end of my line, pulled out drag until my 20lbs line frayed from its teeth.
 * Cutthroat trout - Jumped out of the water when it hit my hopper near mammoth lakes.
-* Summer Flounder (_Paralichthys dentatus_) - Got off before I could hoist it up the rocks.
 
 ## Species Specific Size Records
 
