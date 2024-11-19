@@ -118,7 +118,8 @@ These are not unique species but are different versions of species on the unique
 
 ## Yet to be identified
 
-* [Lizardfish _(Synodontidae ???)_](img/2019-11-25_lizardfish.jpg) - On a ceramic popper bigger than itself! Caught at Anini Beach, Kauai. Not sure if I can get a better identification :(
+* [Lizardfish, Hawaii _(Synodontidae ???)_](img/2019-11-25_lizardfish.jpg) - On a ceramic popper bigger than itself! Caught at Anini Beach, Kauai. Not sure if I can get a better identification :(
+* [Lizardfish, California _(Synodontidae ???)_](img/2023_09_30_ca_lizardfish.jpg) - On a sabiki rig from Pacifica Pier.
 * [Some kind of needlefish in Kauai, HI](img/to%20identify/2019-11-27_unidentified_needlefish_kauai.jpg)
 * [Another needlefish, probably same as above](img/2021-08-12_needlefish.jpeg)
 * [Looks like an alewife or smelt type thing, Riviera Maya MX](img/to%20identify/2020-02-29_unidentified_baitfish_riviera_maya.jpg)
