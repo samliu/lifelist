@@ -97,7 +97,6 @@ These are not unique species but are different versions of species on the unique
 * Pumpkinseed Sunfish
 * Redbreast Sunfish
 * Atlantic Stingray (when I was young)
-* Anchovy
 * Topsmelt silverside
 * Channel Catfish (high school, Holmdel Park Pond)
 
